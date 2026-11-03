@@ -1,0 +1,104 @@
+{
+ "unit": "BWISAR-U1",
+ "quelle": "Studienheft 1133, Kap. 1 und Studienheft 1121, Kap. 1",
+ "questions": [
+  {
+   "type": "single",
+   "q": "Wann „wissen“ wir etwas (statt es nur zu vermuten oder zu glauben)?",
+   "options": [
+    "Wenn die Information wahr und begründbar ist",
+    "Wenn viele Menschen es glauben",
+    "Wenn wir es im Internet gelesen haben",
+    "Wenn es uns nützt"
+   ],
+   "answer": 0,
+   "explain": "Wissen muss gleichzeitig wahr und begründbar sein (Heft 1133, Kap. 1.1)."
+  },
+  {
+   "type": "multi",
+   "q": "Was kennzeichnet wissenschaftliches Wissen im Unterschied zu Alltagswissen? (mehrere richtig)",
+   "options": [
+    "Es entsteht systematisch und methodisch begründbar",
+    "Der Erkenntnisweg wird offengelegt",
+    "Es strebt Objektivität bzw. Intersubjektivität an",
+    "Es wird meist mündlich im Bekanntenkreis weitergegeben",
+    "Es beruht auf zufälligem persönlichem Erleben"
+   ],
+   "answer": [0, 1, 2],
+   "explain": "Mündliche Weitergabe, Hörensagen und zufälliges Erleben sind typisch für Alltagswissen."
+  },
+  {
+   "type": "tf",
+   "q": "Grundlagenforschung ist zunächst zweckfreie Forschung, Anwendungsforschung will direkt verwertbares Wissen schaffen.",
+   "answer": true,
+   "explain": "Richtig. Wissen aus Grundlagenforschung wird erst nützlich, wenn jemand einen Verwendungszweck erkennt."
+  },
+  {
+   "type": "match",
+   "q": "Ordne zu",
+   "pairs": [
+    ["Populärwissenschaft", "Vereinfacht für Laien, dadurch oft ungenau"],
+    ["Parawissenschaft", "Beschäftigung mit Übersinnlichem, schwer belegbar"],
+    ["Pseudowissenschaft", "Nicht anerkannte Methoden, Theorien nicht widerlegbar"],
+    ["Praxiswissen", "In der Praxis bewährte Routinen und Abläufe, oft durch Versuch und Irrtum"]
+   ],
+   "explain": "Für dein Studium besonders relevant ist der Unterschied zwischen Praxiswissen und wissenschaftlichem Wissen."
+  },
+  {
+   "type": "single",
+   "q": "Was bedeutet „intersubjektive Überprüfbarkeit“ (Definition nach Körner)?",
+   "options": [
+    "Ergebnisse und Verfahren werden so offengelegt, dass andere Wissenschaftler sie kritisch prüfen können",
+    "Mehrere Personen müssen dieselbe Meinung haben",
+    "Der Forscher prüft seine Ergebnisse selbst zweimal",
+    "Die Ergebnisse werden geheim gehalten, bis sie bewiesen sind"
+   ],
+   "answer": 0,
+   "explain": "Wissenschaft ist keine „Geheimniskrämerei“ (Heft 1121, Kap. 1.2)."
+  },
+  {
+   "type": "gap",
+   "q": "Wissenschaftliche Forschung soll Phänomene ___, ___ und damit Vorhersagen ermöglichen.",
+   "gaps": [
+    {"options": ["beschreiben", "bewerten", "verkaufen"], "answer": 0},
+    {"options": ["erklären", "verbieten", "vereinfachen"], "answer": 0}
+   ],
+   "explain": "Der „Dreiklang“: beschreiben (Was ist der Fall?), erklären (Wie entsteht es?), vorhersagen (Gilt es auch anderswo?)."
+  },
+  {
+   "type": "single",
+   "q": "„Wenn das Marketingbudget erhöht wird, steigt der Umsatz.“ Was ist hier die unabhängige Variable (UV)?",
+   "options": ["Das Marketingbudget", "Der Umsatz", "Der Geschäftsführer", "Die Branche"],
+   "answer": 0,
+   "explain": "Die UV ist die Einflussgröße, mit der die abhängige Variable (AV, hier der Umsatz) gesteuert werden soll (methodologisches Grundschema)."
+  },
+  {
+   "type": "match",
+   "q": "Ordne die Gütekriterien zu",
+   "pairs": [
+    ["Objektivität", "Ergebnis ist unabhängig vom Untersuchungsleiter"],
+    ["Reliabilität", "Wiederholte Messung unter gleichen Bedingungen ergibt dasselbe"],
+    ["Validität", "Die Untersuchung erfasst, was sie erfassen soll"]
+   ],
+   "explain": "Validität gilt als das wichtigste Gütekriterium."
+  },
+  {
+   "type": "tf",
+   "q": "Der signifikante Zusammenhang zwischen Storchenpaaren und Geburtenrate zeigt, dass Störche die Babys bringen.",
+   "answer": false,
+   "explain": "Falsch. Eine Drittvariable (die Landesfläche) beeinflusst beide. Korrelation ist nicht Kausalität."
+  },
+  {
+   "type": "single",
+   "q": "Was beschreibt bei Schön Modus II „Reflexion-in-der-Handlung“?",
+   "options": [
+    "Bei einer Störung wird während der laufenden Handlung reflektiert und improvisiert, ohne sie zu unterbrechen",
+    "Routinehandeln aus Erfahrung und Intuition, ohne nachzudenken",
+    "Der Praktiker unterbricht die Handlung und analysiert Ursache und Wirkung",
+    "Das Schreiben einer wissenschaftlichen Arbeit"
+   ],
+   "answer": 0,
+   "explain": "Modus I = Wissen-in-der-Handlung (Routine), Modus II = Reflexion in der Handlung, Modus III = Reflexion über die Handlung (mit Abstand)."
+  }
+ ]
+}

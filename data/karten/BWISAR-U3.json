@@ -1,0 +1,41 @@
+{
+ "unit": "BWISAR-U3",
+ "cards": [
+  {
+   "f": "Warum zitiert man?",
+   "b": "Juristisch: Schutz des geistigen Eigentums (§ 51 UrhG). Wissenschaftlich: Andere können auf dem Wissen aufbauen; du trittst in Dialog mit der Forschung."
+  },
+  {
+   "f": "Die vier Grundsätze des Zitierens?",
+   "b": "Eindeutig identifizierbar, einheitlich, Unmittelbarkeit (aus erster Hand), Zweckmäßigkeit (nur das Nötige, gut eingebunden)."
+  },
+  {
+   "f": "Was ist ein Rezitat, und warum vermeiden?",
+   "b": "Zitat aus zweiter Hand („zitiert nach“). Fehler werden nach dem Stille-Post-Prinzip weitergegeben. Nur wenn das Original kaum zu beschaffen ist."
+  },
+  {
+   "f": "Zitierfähigkeit, -würdigkeit, -pflicht?",
+   "b": "Fähig = dauerhaft zugänglich. Würdig = wissenschaftliche Qualität. Pflicht = jede verwendete Quelle angeben. Pflicht steht über Würdigkeit."
+  },
+  {
+   "f": "Wie machst du eine nicht zitierfähige Quelle (z. B. internes Dokument) nutzbar?",
+   "b": "In den Anhang aufnehmen, auf Datenträger beilegen oder auf Anfrage verfügbar machen. Im Text erwähnen, wo sie liegt, und ins Literaturverzeichnis aufnehmen."
+  },
+  {
+   "f": "DGPs: wörtliches vs. sinngemäßes Zitat im Text?",
+   "b": "Wörtlich: in Anführungszeichen, exakt wie im Original, (Autor, Jahr, S. x). Sinngemäß: ohne Anführungszeichen, Beleg am Ende des Gedankens, (Autor, Jahr, S. x)."
+  },
+  {
+   "f": "DGPs: mehrere Autoren?",
+   "b": "3–5 Autoren: beim ersten Mal alle, danach „et al.“. Ab 6: gleich „et al.“. Mehrere Quellen in einer Klammer alphabetisch, mit Semikolon getrennt."
+  },
+  {
+   "f": "BFuP-Fußnote: Wie sieht der Kurzbeleg aus?",
+   "b": "Vgl. Nachname (Jahr), S. x – „Vgl.“ nur bei sinngemäßen Zitaten. Mehrere Autoren mit Schrägstrich, ab drei „et al.“."
+  },
+  {
+   "f": "Richtwerte für die Anzahl der Quellen an der SRH?",
+   "b": "Bachelor-Arbeiten mind. 10, Bachelor-Thesis mind. 30, Master-Arbeiten mind. 15, Master-Thesis mind. 50 (jeweils plus Studienbriefe)."
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "unit": "BWISAR-U3",
+ "quelle": "Studienheft 1133, Kap. 3",
+ "questions": [
+  {
+   "type": "multi",
+   "q": "Warum musst du zitieren? (mehrere richtig)",
+   "options": [
+    "Schutz des geistigen Eigentums (juristische Seite)",
+    "Nur so können andere auf dem bisherigen Wissen aufbauen (wissenschaftliche Seite)",
+    "Damit die Arbeit länger wird",
+    "Weil Prüfer möglichst viele Zitate sehen wollen"
+   ],
+   "answer": [0, 1],
+   "explain": "§ 51 UrhG erlaubt fremdes geistiges Eigentum in wissenschaftlichen Texten, wenn die Quelle angegeben wird. Der eigentliche Grund ist das Funktionieren der Wissenschaft."
+  },
+  {
+   "type": "single",
+   "q": "Welche zwei Grundsätze gelten beim Zitieren immer?",
+   "options": [
+    "Die zitierten Werke sind eindeutig identifizierbar, und die Zitation ist einheitlich",
+    "Nur Bücher zitieren, nie Artikel",
+    "Immer wörtlich zitieren",
+    "Möglichst alte Quellen verwenden"
+   ],
+   "answer": 0,
+   "explain": "Dazu kommen die Grundsätze Unmittelbarkeit und Zweckmäßigkeit."
+  },
+  {
+   "type": "single",
+   "q": "Was verlangt der Grundsatz der Unmittelbarkeit („ad fontes“)?",
+   "options": [
+    "Direkt aus der Originalquelle zitieren statt blind aus zweiter Hand",
+    "Sofort nach dem Lesen zitieren",
+    "Nur Quellen aus dem letzten Jahr nutzen",
+    "Zitate immer an den Anfang eines Kapitels stellen"
+   ],
+   "answer": 0,
+   "explain": "Ein Rezitat („zitiert nach“) ist nur die Ausnahme, z. B. wenn die Quelle vergriffen ist. Fernleihe vorher prüfen."
+  },
+  {
+   "type": "match",
+   "q": "Ordne zu",
+   "pairs": [
+    ["Zitierfähigkeit", "Quelle ist dauerhaft frei zugänglich und damit überprüfbar"],
+    ["Zitierwürdigkeit", "Quelle genügt wissenschaftlichen Qualitätsansprüchen"],
+    ["Zitierpflicht", "Jede verwendete Quelle muss angegeben werden"]
+   ],
+   "explain": "Nicht jedes zitierfähige Werk ist zitierwürdig. Jedes verwendete Werk ist zitierpflichtig."
+  },
+  {
+   "type": "tf",
+   "q": "Eine Quelle, die nicht zitierwürdig ist, darfst du weglassen, auch wenn du ihre Inhalte benutzt hast.",
+   "answer": false,
+   "explain": "Falsch. Die Zitierpflicht steht über der Zitierwürdigkeit. Besser eine schwache Quelle angeben als fremdes Wissen als eigenes ausgeben."
+  },
+  {
+   "type": "single",
+   "q": "Welcher Beleg für ein sinngemäßes Zitat passt zum DGPs-Stil mit der Seitenangabe, die die SRH verlangt?",
+   "options": ["(Eichhorn, 2009, S. 11)", "Vgl. Eichhorn (2009), S. 11", "(Eichhorn 2009)", "[Eichhorn: 11]"],
+   "answer": 0,
+   "explain": "„Vgl. … (Jahr), S.“ ist die Fußnoten-Form (BFuP). Ohne Seitenangabe fehlt die genaue Fundstelle."
+  },
+  {
+   "type": "gap",
+   "q": "Bei drei bis fünf Autoren nennst du beim ersten Beleg alle Namen, danach den Erstautor mit ___. Mehrere Quellen in einer Klammer sortierst du ___.",
+   "gaps": [
+    {"options": ["„et al.“", "„u. v. m.“", "„ibid.“"], "answer": 0},
+    {"options": ["alphabetisch", "chronologisch", "nach Seitenzahl"], "answer": 0}
+   ],
+   "explain": "DGPs: alphabetisch nach Erstautor, getrennt mit Semikolon. Achtung: In BFuP-Fußnoten werden mehrere Quellen chronologisch sortiert."
+  },
+  {
+   "type": "single",
+   "q": "Wie viele Quellen gelten an der SRH als Richtwert für eine schriftliche Arbeit im Bachelor (nicht Thesis)?",
+   "options": ["Mindestens 10 (plus Studienbriefe)", "Mindestens 3", "Mindestens 30", "Mindestens 50"],
+   "answer": 0,
+   "explain": "Bachelor-Thesis: mindestens 30. Das Erreichen des Richtwerts reicht in diesem Punkt nur für „ausreichend“."
+  },
+  {
+   "type": "tf",
+   "q": "Im Fußnoten-Stil (BFuP) beginnen Belege für sinngemäße Zitate mit „Vgl.“, Belege für wörtliche Zitate nicht.",
+   "answer": true,
+   "explain": "Richtig. Wörtliche Zitate stehen in Anführungszeichen, die Quelle steht ohne „Vgl.“ in der Fußnote."
+  },
+  {
+   "type": "single",
+   "q": "Wie geht das Heft mit Wikipedia um?",
+   "options": [
+    "Die Zitierwürdigkeit ist umstritten; als Einstieg ins Thema oder für die Suche darfst du sie nutzen",
+    "Wikipedia ist immer zitierwürdig",
+    "Wikipedia ist verboten, auch als Einstieg",
+    "Wikipedia gilt als Fachlexikon"
+   ],
+   "answer": 0,
+   "explain": "Informier dich, wie angesehen Wikipedia in deinem Fach ist."
+  }
+ ]
+}

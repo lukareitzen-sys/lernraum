@@ -1,0 +1,3195 @@
+[
+ {
+  "code": "1253",
+  "module": "BEPSYC",
+  "title": "Einführung in die Psychologie",
+  "sections": [
+   {
+    "id": "1253-1",
+    "num": "1",
+    "title": "Faszination Psychologie: Die lange Geschichte einer jungen Wissenschaft"
+   },
+   {
+    "id": "1253-1.1",
+    "num": "1.1",
+    "title": "Ursprünge der Psychologie in der Antike und im Mittelalter"
+   },
+   {
+    "id": "1253-1.2",
+    "num": "1.2",
+    "title": "Verstand und Glaube in der Renaissance und nach der Reformation"
+   },
+   {
+    "id": "1253-1.3",
+    "num": "1.3",
+    "title": "Psychologie in der Romantik"
+   },
+   {
+    "id": "1253-1.4",
+    "num": "1.4",
+    "title": "Psychologie im 19. und 20. Jahrhundert"
+   },
+   {
+    "id": "1253-1.5",
+    "num": "1.5",
+    "title": "Psychologie heute"
+   },
+   {
+    "id": "1253-1.6",
+    "num": "1.6",
+    "title": "Zusammenfassung und Fazit"
+   },
+   {
+    "id": "1253-2",
+    "num": "2",
+    "title": "Psychologische Disziplinen und Fächer – Eine Übersicht"
+   },
+   {
+    "id": "1253-2.1",
+    "num": "2.1",
+    "title": "Allgemeine Psychologie"
+   },
+   {
+    "id": "1253-2.2",
+    "num": "2.2",
+    "title": "Differentielle und Persönlichkeitspsychologie"
+   },
+   {
+    "id": "1253-2.3",
+    "num": "2.3",
+    "title": "Entwicklungspsychologie"
+   },
+   {
+    "id": "1253-2.4",
+    "num": "2.4",
+    "title": "Sozialpsychologie"
+   },
+   {
+    "id": "1253-2.5",
+    "num": "2.5",
+    "title": "Biologische Psychologie"
+   },
+   {
+    "id": "1253-2.6",
+    "num": "2.6",
+    "title": "Psychologische Methodenlehre"
+   },
+   {
+    "id": "1253-2.7",
+    "num": "2.7",
+    "title": "Arbeitspsychologie"
+   },
+   {
+    "id": "1253-2.8",
+    "num": "2.8",
+    "title": "Gesundheitspsychologie"
+   },
+   {
+    "id": "1253-2.9",
+    "num": "2.9",
+    "title": "Klinische Psychologie"
+   },
+   {
+    "id": "1253-2.10",
+    "num": "2.10",
+    "title": "Markt- und Werbepsychologie"
+   },
+   {
+    "id": "1253-2.11",
+    "num": "2.11",
+    "title": "Medien- und Kommunikationspsychologie"
+   },
+   {
+    "id": "1253-2.12",
+    "num": "2.12",
+    "title": "Psychologie des Lehrens und Lernens / Pädagogische Psychologie"
+   },
+   {
+    "id": "1253-2.13",
+    "num": "2.13",
+    "title": "Rechtspsychologie"
+   },
+   {
+    "id": "1253-2.14",
+    "num": "2.14",
+    "title": "Sportpsychologie"
+   },
+   {
+    "id": "1253-2.15",
+    "num": "2.15",
+    "title": "Umweltpsychologie"
+   },
+   {
+    "id": "1253-2.16",
+    "num": "2.16",
+    "title": "Verkehrspsychologie"
+   },
+   {
+    "id": "1253-2.17",
+    "num": "2.17",
+    "title": "Wirtschaftspsychologie"
+   },
+   {
+    "id": "1253-2.18",
+    "num": "2.18",
+    "title": "Übungs- und Nachdenkaufgaben"
+   },
+   {
+    "id": "1253-3",
+    "num": "3",
+    "title": "Methoden der Psychologie"
+   },
+   {
+    "id": "1253-3.1",
+    "num": "3.1",
+    "title": "Psychologie als Wissenschaft"
+   },
+   {
+    "id": "1253-3.2",
+    "num": "3.2",
+    "title": "Wissenschaftliche Gütekriterien"
+   },
+   {
+    "id": "1253-3.3",
+    "num": "3.3",
+    "title": "Der Forschungsprozess"
+   },
+   {
+    "id": "1253-3.4",
+    "num": "3.4",
+    "title": "Quantitative Forschungsmethoden"
+   },
+   {
+    "id": "1253-3.5",
+    "num": "3.5",
+    "title": "Qualitative Forschungsmethoden"
+   },
+   {
+    "id": "1253-3.6",
+    "num": "3.6",
+    "title": "Experimente und Quasi-Experimente"
+   },
+   {
+    "id": "1253-3.7",
+    "num": "3.7",
+    "title": "Empirische Feldforschung"
+   },
+   {
+    "id": "1253-3.8",
+    "num": "3.8",
+    "title": "Computersimulation"
+   },
+   {
+    "id": "1253-3.9",
+    "num": "3.9",
+    "title": "Zusammenfassung und Übungsaufgaben"
+   },
+   {
+    "id": "1253-4",
+    "num": "4",
+    "title": "Tätigkeits- und Berufsfelder für Psychologinnen und Psychologen"
+   },
+   {
+    "id": "1253-4.1",
+    "num": "4.1",
+    "title": "Psychologie als freier Beruf"
+   },
+   {
+    "id": "1253-4.2",
+    "num": "4.2",
+    "title": "Psychologische Tätigkeit als Gutachter"
+   },
+   {
+    "id": "1253-4.3",
+    "num": "4.3",
+    "title": "Tätigkeit als wirtschaftspsychologischer Berater"
+   },
+   {
+    "id": "1253-4.5",
+    "num": "4.5",
+    "title": "Tätigkeit als Trainer/Coach in der Erwachsenenbildung"
+   },
+   {
+    "id": "1253-4.6",
+    "num": "4.6",
+    "title": "Tätigkeit als psychologischer Psychotherapeut"
+   },
+   {
+    "id": "1253-4.7",
+    "num": "4.7",
+    "title": "Tätigkeit in der Kinder- und Jugendhilfe"
+   },
+   {
+    "id": "1253-4.8",
+    "num": "4.8",
+    "title": "Zusammenfassung und Übungsaufgaben"
+   },
+   {
+    "id": "1253-5",
+    "num": "5",
+    "title": "Aktuelle Entwicklungen und Trends in der Psychologie"
+   }
+  ]
+ },
+ {
+  "code": "1283",
+  "module": "BEPSYC",
+  "title": "Psychologie studieren an der SRH (Handreichung)",
+  "sections": [
+   {
+    "id": "1283-1",
+    "num": "1",
+    "title": "Psychologie studieren: Worauf kommt es an?"
+   },
+   {
+    "id": "1283-1.1",
+    "num": "1.1",
+    "title": "Psychologie als angewandte Wissenschaft"
+   },
+   {
+    "id": "1283-1.2",
+    "num": "1.2",
+    "title": "Ziele der Psychologie als angewandte Sozialwissenschaft"
+   },
+   {
+    "id": "1283-1.4",
+    "num": "1.4",
+    "title": "Zusammenfassung und Fazit"
+   },
+   {
+    "id": "1283-2",
+    "num": "2",
+    "title": "Herausforderungen für Studierende im mobilen Studium / Selbstorganisation und Studienorganisation"
+   },
+   {
+    "id": "1283-2.2",
+    "num": "2.2",
+    "title": "Lektüre und Bearbeitung psychologischer Fachliteratur"
+   },
+   {
+    "id": "1283-2.3",
+    "num": "2.3",
+    "title": "Prüfungsarten und Prüfungsvorbereitung"
+   },
+   {
+    "id": "1283-2.3.1",
+    "num": "2.3.1",
+    "title": "Schriftliche Klausur"
+   },
+   {
+    "id": "1283-2.3.2",
+    "num": "2.3.2",
+    "title": "Einsendeaufgaben"
+   },
+   {
+    "id": "1283-2.3.3",
+    "num": "2.3.3",
+    "title": "Hausarbeiten"
+   },
+   {
+    "id": "1283-2.3.4",
+    "num": "2.3.4",
+    "title": "Fallstudien"
+   },
+   {
+    "id": "1283-2.3.5",
+    "num": "2.3.5",
+    "title": "Praxisbericht"
+   },
+   {
+    "id": "1283-2.3.6",
+    "num": "2.3.6",
+    "title": "Wissenschaftliche Abschlussarbeit (Thesis)"
+   },
+   {
+    "id": "1283-3",
+    "num": "3",
+    "title": "Tipps und Tricks für das Psychologiestudium"
+   },
+   {
+    "id": "1283-3.1",
+    "num": "3.1",
+    "title": "Überblick gewinnen"
+   },
+   {
+    "id": "1283-3.2",
+    "num": "3.2",
+    "title": "Psychologische Fachbegriffe definieren und einordnen"
+   },
+   {
+    "id": "1283-3.3",
+    "num": "3.3",
+    "title": "Psychologische Forschungsmethoden im Überblick"
+   },
+   {
+    "id": "1283-3.4",
+    "num": "3.4",
+    "title": "(Sozial-)Wissenschaftliche Texte lesen und schreiben"
+   },
+   {
+    "id": "1283-4",
+    "num": "4",
+    "title": "Übersicht: Literaturquellen und Online-Datenbanken"
+   },
+   {
+    "id": "1283-4.1",
+    "num": "4.1",
+    "title": "Psychologische Fachliteratur recherchieren"
+   },
+   {
+    "id": "1283-4.2",
+    "num": "4.2",
+    "title": "Bibliotheken (physisch und online)"
+   },
+   {
+    "id": "1283-4.3",
+    "num": "4.3",
+    "title": "Online-Datenbanken"
+   },
+   {
+    "id": "1283-5",
+    "num": "5",
+    "title": "Überblick über das Curriculum und die Studieninhalte / Übersicht über das Curriculum"
+   },
+   {
+    "id": "1283-5.2",
+    "num": "5.2",
+    "title": "Das erste Studienjahr: Die Grundlagen"
+   },
+   {
+    "id": "1283-5.3",
+    "num": "5.3",
+    "title": "Das zweite Studienjahr: Die Anwendung"
+   },
+   {
+    "id": "1283-5.4",
+    "num": "5.4",
+    "title": "Das dritte Studienjahr: Die Vertiefung"
+   },
+   {
+    "id": "1283-6",
+    "num": "6",
+    "title": "Wie fangen Sie jetzt am besten an?"
+   },
+   {
+    "id": "1283-6.1.1",
+    "num": "6.1.1",
+    "title": "Organisieren Sie Ihren Studienplan"
+   },
+   {
+    "id": "1283-6.1.2",
+    "num": "6.1.2",
+    "title": "Gewinnen Sie einen Überblick über das Studienmaterial"
+   },
+   {
+    "id": "1283-6.1.3",
+    "num": "6.1.3",
+    "title": "Exzerpieren Sie die wichtigsten Inhalte der Studienbriefe"
+   },
+   {
+    "id": "1283-6.1.4",
+    "num": "6.1.4",
+    "title": "Bearbeiten Sie die ersten Übungsaufgaben"
+   },
+   {
+    "id": "1283-6.1.5",
+    "num": "6.1.5",
+    "title": "Recherchieren und lesen Sie zusätzliches Studienmaterial"
+   },
+   {
+    "id": "1283-6.1.6",
+    "num": "6.1.6",
+    "title": "Bereiten Sie sich auf die Prüfung vor"
+   }
+  ]
+ },
+ {
+  "code": "1121",
+  "module": "BWISAR",
+  "title": "Grundlagen der empirischen Sozialforschung",
+  "sections": [
+   {
+    "id": "1121-1",
+    "num": "1",
+    "title": "„Wissenschaft“ – Was ist das?"
+   },
+   {
+    "id": "1121-1.1",
+    "num": "1.1",
+    "title": "Abgrenzung von Alltagswissen und wissenschaftlichem Wissen"
+   },
+   {
+    "id": "1121-1.1.1",
+    "num": "1.1.1",
+    "title": "Alltagswissen und subjektive Theorien"
+   },
+   {
+    "id": "1121-1.1.2",
+    "num": "1.1.2",
+    "title": "Wissenschaftliches Wissen"
+   },
+   {
+    "id": "1121-1.1.3",
+    "num": "1.1.3",
+    "title": "Schlussfolgerungen"
+   },
+   {
+    "id": "1121-1.2",
+    "num": "1.2",
+    "title": "Definition von „Wissenschaft“"
+   },
+   {
+    "id": "1121-1.3",
+    "num": "1.3",
+    "title": "Ansprüche an wissenschaftliche Forschung"
+   },
+   {
+    "id": "1121-1.3.1",
+    "num": "1.3.1",
+    "title": "Einführung"
+   },
+   {
+    "id": "1121-1.3.2",
+    "num": "1.3.2",
+    "title": "Vertiefung I: Gütekriterien"
+   },
+   {
+    "id": "1121-1.3.3",
+    "num": "1.3.3",
+    "title": "Vertiefung II: Interne Validität"
+   },
+   {
+    "id": "1121-1.3.4",
+    "num": "1.3.4",
+    "title": "Vertiefung III: Auswahl der „richtigen“ Ursache-Wirkungs-Beziehung"
+   },
+   {
+    "id": "1121-1.3.5",
+    "num": "1.3.5",
+    "title": "Vertiefung IV: Externe Validität"
+   },
+   {
+    "id": "1121-1.3.6",
+    "num": "1.3.6",
+    "title": "Konsequenz I: Die Erweiterung des methodologischen Grundschemas"
+   },
+   {
+    "id": "1121-1.3.7",
+    "num": "1.3.7",
+    "title": "Vertiefung V: Korrelation vs. Kausalität"
+   },
+   {
+    "id": "1121-1.3.8",
+    "num": "1.3.8",
+    "title": "Konsequenz II: Wissenschaft ist bescheiden"
+   },
+   {
+    "id": "1121-2",
+    "num": "2",
+    "title": "Definitionen, Theorien und Hypothesen"
+   },
+   {
+    "id": "1121-2.1",
+    "num": "2.1",
+    "title": "Begriffe und Definitionen"
+   },
+   {
+    "id": "1121-2.2",
+    "num": "2.2",
+    "title": "Theorien und Hypothesen"
+   },
+   {
+    "id": "1121-2.3",
+    "num": "2.3",
+    "title": "Kriterien für eine „gute“ Theorie"
+   },
+   {
+    "id": "1121-2.4",
+    "num": "2.4",
+    "title": "Kriterien für wissenschaftliche Hypothesen"
+   },
+   {
+    "id": "1121-2.5",
+    "num": "2.5",
+    "title": "Beobachtung – Hypothesen – Theorien: Induktion und Deduktion"
+   },
+   {
+    "id": "1121-2.6",
+    "num": "2.6",
+    "title": "Der kritische Rationalismus als Perspektive"
+   },
+   {
+    "id": "1121-2.7",
+    "num": "2.7",
+    "title": "Implikationen des Kritischen Rationalismus"
+   },
+   {
+    "id": "1121-3",
+    "num": "3",
+    "title": "Der empirische Forschungsprozess"
+   },
+   {
+    "id": "1121-3.1",
+    "num": "3.1",
+    "title": "Einführung"
+   },
+   {
+    "id": "1121-3.2",
+    "num": "3.2",
+    "title": "Problemdefinition & Festlegung der Forschungsziele („Einleitung“)"
+   },
+   {
+    "id": "1121-3.2.1",
+    "num": "3.2.1",
+    "title": "Identifikation der übergeordneten Problemstellung"
+   },
+   {
+    "id": "1121-3.2.2",
+    "num": "3.2.2",
+    "title": "Präzisierung der Zielsetzung der Arbeit"
+   },
+   {
+    "id": "1121-3.2.3",
+    "num": "3.2.3",
+    "title": "Klärung der Art der Arbeit"
+   },
+   {
+    "id": "1121-3.2.4",
+    "num": "3.2.4",
+    "title": "Relevanz der Fragestellung"
+   },
+   {
+    "id": "1121-3.2.5",
+    "num": "3.2.5",
+    "title": "Zusammenfassung"
+   },
+   {
+    "id": "1121-3.3",
+    "num": "3.3",
+    "title": "Identifikation theoretischer Grundlagen („Theorie“)"
+   },
+   {
+    "id": "1121-3.3.1",
+    "num": "3.3.1",
+    "title": "Literaturrecherche"
+   },
+   {
+    "id": "1121-3.3.2",
+    "num": "3.3.2",
+    "title": "Analyse der vorhandenen Literatur"
+   },
+   {
+    "id": "1121-3.3.3",
+    "num": "3.3.3",
+    "title": "Präzisierung der Fragestellung/Ableitung von Hypothesen"
+   },
+   {
+    "id": "1121-3.3.4",
+    "num": "3.3.4",
+    "title": "Hypothesenprüfung: Null- und Alternativhypothese"
+   },
+   {
+    "id": "1121-3.3.5",
+    "num": "3.3.5",
+    "title": "Hypothesenprüfung: Falsifikation"
+   },
+   {
+    "id": "1121-3.3.6",
+    "num": "3.3.6",
+    "title": "Zusammenfassung: vom Praxisinteresse zur Hypothese"
+   },
+   {
+    "id": "1121-3.4",
+    "num": "3.4",
+    "title": "Konzipierung des Forschungsplans/Datenerhebung"
+   },
+   {
+    "id": "1121-3.4.1",
+    "num": "3.4.1",
+    "title": "Übersicht"
+   },
+   {
+    "id": "1121-3.4.2",
+    "num": "3.4.2",
+    "title": "Die Stichprobenauswahl"
+   },
+   {
+    "id": "1121-3.4.3",
+    "num": "3.4.3",
+    "title": "Forschungsdesign/Forschungsplan"
+   },
+   {
+    "id": "1121-3.4.4",
+    "num": "3.4.4",
+    "title": "Festlegung der untersuchungsrelevanten Variablen"
+   },
+   {
+    "id": "1121-3.4.5",
+    "num": "3.4.5",
+    "title": "Messung und Festlegung des Skalenniveaus"
+   },
+   {
+    "id": "1121-3.5",
+    "num": "3.5",
+    "title": "Operationalisierung"
+   },
+   {
+    "id": "1121-3.5.1",
+    "num": "3.5.1",
+    "title": "Grundverständnis"
+   },
+   {
+    "id": "1121-3.5.2",
+    "num": "3.5.2",
+    "title": "Dimensionale Analyse"
+   },
+   {
+    "id": "1121-3.5.3",
+    "num": "3.5.3",
+    "title": "Beispiel: Projekt „Analyse der Wettbewerbsfähigkeit von KMU“"
+   },
+   {
+    "id": "1121-3.5.4",
+    "num": "3.5.4",
+    "title": "Zusammenfassung"
+   },
+   {
+    "id": "1121-3.6",
+    "num": "3.6",
+    "title": "Wahl der geeigneten Untersuchungsmethode"
+   },
+   {
+    "id": "1121-3.6.1",
+    "num": "3.6.1",
+    "title": "Primärforschung"
+   },
+   {
+    "id": "1121-3.6.2",
+    "num": "3.6.2",
+    "title": "Sekundärforschung"
+   },
+   {
+    "id": "1121-3.7",
+    "num": "3.7",
+    "title": "Datenanalyse"
+   },
+   {
+    "id": "1121-3.7.1",
+    "num": "3.7.1",
+    "title": "Vorüberlegung"
+   },
+   {
+    "id": "1121-3.8",
+    "num": "3.8",
+    "title": "Diskussion & Interpretation"
+   },
+   {
+    "id": "1121-3.8.1",
+    "num": "3.8.1",
+    "title": "Einführung"
+   },
+   {
+    "id": "1121-3.8.2",
+    "num": "3.8.2",
+    "title": "Analyse des eigenen Vorgehens"
+   },
+   {
+    "id": "1121-3.9",
+    "num": "3.9",
+    "title": "Ergebnisdarstellung"
+   },
+   {
+    "id": "1121-3.9.1",
+    "num": "3.9.1",
+    "title": "Hinweise zur schriftlichen Arbeit"
+   },
+   {
+    "id": "1121-3.9.2",
+    "num": "3.9.2",
+    "title": "Hinweise zur Präsentation"
+   },
+   {
+    "id": "1121-4",
+    "num": "4",
+    "title": "Methoden der empirischen Sozialforschung"
+   },
+   {
+    "id": "1121-4.1",
+    "num": "4.1",
+    "title": "Einführung und Begriffsbildung"
+   },
+   {
+    "id": "1121-4.2",
+    "num": "4.2",
+    "title": "Die schriftliche Befragung: Fragebogentechnik"
+   },
+   {
+    "id": "1121-4.2.1",
+    "num": "4.2.1",
+    "title": "Einführung"
+   },
+   {
+    "id": "1121-4.2.2",
+    "num": "4.2.2",
+    "title": "Gestaltung des Fragebogens"
+   },
+   {
+    "id": "1121-4.3",
+    "num": "4.3",
+    "title": "Die mündliche Befragung: Interviewtechnik"
+   },
+   {
+    "id": "1121-4.3.1",
+    "num": "4.3.1",
+    "title": "Einführung"
+   },
+   {
+    "id": "1121-4.3.2",
+    "num": "4.3.2",
+    "title": "Interviewformen"
+   },
+   {
+    "id": "1121-4.3.3",
+    "num": "4.3.3",
+    "title": "Der Ablauf eines Interviews"
+   },
+   {
+    "id": "1121-4.3.4",
+    "num": "4.3.4",
+    "title": "Zusammenfassung"
+   },
+   {
+    "id": "1121-4.4",
+    "num": "4.4",
+    "title": "Die Beobachtung"
+   },
+   {
+    "id": "1121-4.4.1",
+    "num": "4.4.1",
+    "title": "Grundlagen der Beobachtung"
+   },
+   {
+    "id": "1121-4.4.2",
+    "num": "4.4.2",
+    "title": "Anwendungsbereiche der Beobachtung"
+   },
+   {
+    "id": "1121-4.5",
+    "num": "4.5",
+    "title": "Die Dokumentenanalyse"
+   },
+   {
+    "id": "1121-4.5.1",
+    "num": "4.5.1",
+    "title": "Einführung"
+   },
+   {
+    "id": "1121-4.5.2",
+    "num": "4.5.2",
+    "title": "Ablauf"
+   },
+   {
+    "id": "1121-4.5.3",
+    "num": "4.5.3",
+    "title": "Bewertung"
+   },
+   {
+    "id": "1121-4.6",
+    "num": "4.6",
+    "title": "Das Experiment"
+   },
+   {
+    "id": "1121-4.6.1",
+    "num": "4.6.1",
+    "title": "Ziele und Aufgaben von Experimenten"
+   },
+   {
+    "id": "1121-4.6.2",
+    "num": "4.6.2",
+    "title": "Arten von Experimenten"
+   },
+   {
+    "id": "1121-4.7",
+    "num": "4.7",
+    "title": "Konzeptioneller Ablauf einer Befragung (Fragebogen bzw. Interview)"
+   },
+   {
+    "id": "1121-5",
+    "num": "5",
+    "title": "Statistische Kenngrößen"
+   },
+   {
+    "id": "1121-5.1",
+    "num": "5.1",
+    "title": "Einführung in die angewandte Datenanalyse"
+   },
+   {
+    "id": "1121-5.2",
+    "num": "5.2",
+    "title": "Eindimensionale Häufigkeitsverteilungen"
+   },
+   {
+    "id": "1121-5.2.1",
+    "num": "5.2.1",
+    "title": "Lageparameter"
+   },
+   {
+    "id": "1121-5.2.2",
+    "num": "5.2.2",
+    "title": "Streuungsparameter"
+   }
+  ]
+ },
+ {
+  "code": "1133",
+  "module": "BWISAR",
+  "title": "Wissenschaftliches Arbeiten und Schreiben",
+  "sections": [
+   {
+    "id": "1133-1",
+    "num": "1",
+    "title": "Wissen generieren vs. Wissen aneignen"
+   },
+   {
+    "id": "1133-1.1",
+    "num": "1.1",
+    "title": "Verschiedene Arten von Wissen: Alltagswissen, wissenschaftliches Wissen, Praxiswissen"
+   },
+   {
+    "id": "1133-1.2",
+    "num": "1.2",
+    "title": "Ansprüche an Wissenschaftlichkeit"
+   },
+   {
+    "id": "1133-1.2.1",
+    "num": "1.2.1",
+    "title": "Akademische Redlichkeit"
+   },
+   {
+    "id": "1133-1.2.2",
+    "num": "1.2.2",
+    "title": "Objektivität bzw. Intersubjektivität"
+   },
+   {
+    "id": "1133-1.2.3",
+    "num": "1.2.3",
+    "title": "Nachvollziehbarkeit"
+   },
+   {
+    "id": "1133-1.2.4",
+    "num": "1.2.4",
+    "title": "Genauigkeit und Zuverlässigkeit"
+   },
+   {
+    "id": "1133-1.2.5",
+    "num": "1.2.5",
+    "title": "Einhalten formaler Konventionen"
+   },
+   {
+    "id": "1133-1.2.6",
+    "num": "1.2.6",
+    "title": "Freie Zugänglichkeit der Ergebnisse"
+   },
+   {
+    "id": "1133-1.3",
+    "num": "1.3",
+    "title": "Anforderungen an Bachelor und Master laut KMK"
+   },
+   {
+    "id": "1133-2",
+    "num": "2",
+    "title": "Literaturrecherche"
+   },
+   {
+    "id": "1133-2.1",
+    "num": "2.1",
+    "title": "Quellenarten"
+   },
+   {
+    "id": "1133-2.2",
+    "num": "2.2",
+    "title": "Suchorte, Suchworte und Suchtechniken"
+   },
+   {
+    "id": "1133-2.2.1",
+    "num": "2.2.1",
+    "title": "Recherche im Internet"
+   },
+   {
+    "id": "1133-2.2.2",
+    "num": "2.2.2",
+    "title": "Nutzung einer Bibliothek vor Ort"
+   },
+   {
+    "id": "1133-2.2.3",
+    "num": "2.2.3",
+    "title": "Suche mit der Literaturverwaltungssoftware"
+   },
+   {
+    "id": "1133-2.2.4",
+    "num": "2.2.4",
+    "title": "Suchworte"
+   },
+   {
+    "id": "1133-2.2.5",
+    "num": "2.2.5",
+    "title": "Suchstrategien"
+   },
+   {
+    "id": "1133-2.2.6",
+    "num": "2.2.6",
+    "title": "Suchtechniken"
+   },
+   {
+    "id": "1133-2.3",
+    "num": "2.3",
+    "title": "Lesetechniken und Hilfsmittel"
+   },
+   {
+    "id": "1133-2.3.1",
+    "num": "2.3.1",
+    "title": "Lesearten"
+   },
+   {
+    "id": "1133-2.3.2",
+    "num": "2.3.2",
+    "title": "Lesetechniken"
+   },
+   {
+    "id": "1133-2.3.3",
+    "num": "2.3.3",
+    "title": "Believing game und doubting game"
+   },
+   {
+    "id": "1133-3",
+    "num": "3",
+    "title": "Richtig zitieren"
+   },
+   {
+    "id": "1133-3.1",
+    "num": "3.1",
+    "title": "Sinn und Zweck des Zitierens"
+   },
+   {
+    "id": "1133-3.2",
+    "num": "3.2",
+    "title": "Grundregeln des Zitierens"
+   },
+   {
+    "id": "1133-3.3",
+    "num": "3.3",
+    "title": "Zitierfähigkeit, -würdigkeit, -pflicht"
+   },
+   {
+    "id": "1133-3.4",
+    "num": "3.4",
+    "title": "Zitierrichtlinien an der Mobile University"
+   },
+   {
+    "id": "1133-3.4.1",
+    "num": "3.4.1",
+    "title": "Hinweise zu Belegen im Text (DGPs/APA)"
+   },
+   {
+    "id": "1133-3.4.2",
+    "num": "3.4.2",
+    "title": "Hinweise zu Belegen in der Fußnote (BFuP)"
+   },
+   {
+    "id": "1133-3.4.3",
+    "num": "3.4.3",
+    "title": "Anzahl von Quellen in einer Arbeit"
+   },
+   {
+    "id": "1133-3.4.4",
+    "num": "3.4.4",
+    "title": "Zitieren von Gesetzen, Verordnungen und Urteilen u. Ä."
+   },
+   {
+    "id": "1133-4",
+    "num": "4",
+    "title": "Arbeiten mit Citavi"
+   },
+   {
+    "id": "1133-4.1",
+    "num": "4.1",
+    "title": "Die ersten Schritte mit der Literaturverwaltungssoftware"
+   },
+   {
+    "id": "1133-4.2",
+    "num": "4.2",
+    "title": "PDFs auswerten"
+   },
+   {
+    "id": "1133-4.3",
+    "num": "4.3",
+    "title": "Verwenden von Schlagwörtern"
+   },
+   {
+    "id": "1133-4.4",
+    "num": "4.4",
+    "title": "Zitieren mit dem Literaturverwaltungsprogramm"
+   },
+   {
+    "id": "1133-4.5",
+    "num": "4.5",
+    "title": "Gliederung und Wissensorganisation"
+   },
+   {
+    "id": "1133-4.6",
+    "num": "4.6",
+    "title": "Aufgabenerstellung und -verwaltung"
+   },
+   {
+    "id": "1133-4.7",
+    "num": "4.7",
+    "title": "Cloud-Projekte für Gruppenarbeiten"
+   },
+   {
+    "id": "1133-5",
+    "num": "5",
+    "title": "Richtig gliedern"
+   },
+   {
+    "id": "1133-5.1",
+    "num": "5.1",
+    "title": "Gliederungsprinzipien und allgemeine Modelle"
+   },
+   {
+    "id": "1133-5.2",
+    "num": "5.2",
+    "title": "Gestaltung der Gliederung"
+   },
+   {
+    "id": "1133-5.2.1",
+    "num": "5.2.1",
+    "title": "Formale Gestaltung der Gliederung"
+   },
+   {
+    "id": "1133-5.2.2",
+    "num": "5.2.2",
+    "title": "Inhaltliche Gestaltung der Gliederung"
+   },
+   {
+    "id": "1133-5.2.3",
+    "num": "5.2.3",
+    "title": "Sprachliche Gestaltung der Gliederung"
+   },
+   {
+    "id": "1133-5.3",
+    "num": "5.3",
+    "title": "Formale Bestandteile einer wissenschaftlichen Arbeit"
+   },
+   {
+    "id": "1133-6",
+    "num": "6",
+    "title": "Schreiben"
+   },
+   {
+    "id": "1133-6.1",
+    "num": "6.1",
+    "title": "Überblick: Die verschiedenen Arten von Arbeiten an der Mobile University"
+   },
+   {
+    "id": "1133-6.2",
+    "num": "6.2",
+    "title": "Schreibprozess und Schreibstrategien"
+   },
+   {
+    "id": "1133-6.2.1",
+    "num": "6.2.1",
+    "title": "Planen"
+   },
+   {
+    "id": "1133-6.2.2",
+    "num": "6.2.2",
+    "title": "Drauflosschreiben"
+   },
+   {
+    "id": "1133-6.2.3",
+    "num": "6.2.3",
+    "title": "Versionenschreiben"
+   },
+   {
+    "id": "1133-6.2.4",
+    "num": "6.2.4",
+    "title": "Patchworkschreiben"
+   },
+   {
+    "id": "1133-6.2.5",
+    "num": "6.2.5",
+    "title": "Die eigene Strategie finden"
+   },
+   {
+    "id": "1133-6.2.6",
+    "num": "6.2.6",
+    "title": "Schriftlicher versus mündlicher Typ"
+   },
+   {
+    "id": "1133-6.3",
+    "num": "6.3",
+    "title": "Schreibstil"
+   },
+   {
+    "id": "1133-6.3.1",
+    "num": "6.3.1",
+    "title": "Adressatenorientierung"
+   },
+   {
+    "id": "1133-6.3.2",
+    "num": "6.3.2",
+    "title": "Thematische Entwicklung"
+   },
+   {
+    "id": "1133-6.4",
+    "num": "6.4",
+    "title": "Feedback"
+   },
+   {
+    "id": "1133-6.4.1",
+    "num": "6.4.1",
+    "title": "Haltung zu Feedback"
+   },
+   {
+    "id": "1133-6.4.2",
+    "num": "6.4.2",
+    "title": "Grundprinzipien des Feedbacks"
+   },
+   {
+    "id": "1133-6.4.3",
+    "num": "6.4.3",
+    "title": "Organisation des Feedback-Prozesses"
+   },
+   {
+    "id": "1133-6.5",
+    "num": "6.5",
+    "title": "Überarbeiten"
+   },
+   {
+    "id": "1133-6.5.1",
+    "num": "6.5.1",
+    "title": "Haltung zur Überarbeitung"
+   },
+   {
+    "id": "1133-6.5.2",
+    "num": "6.5.2",
+    "title": "Inhaltliche Überarbeitung"
+   },
+   {
+    "id": "1133-6.5.3",
+    "num": "6.5.3",
+    "title": "Sprachliche Überarbeitung"
+   },
+   {
+    "id": "1133-6.5.4",
+    "num": "6.5.4",
+    "title": "Formale Überarbeitung"
+   },
+   {
+    "id": "1133-7",
+    "num": "7",
+    "title": "Rund um KI im Studium"
+   },
+   {
+    "id": "1133-7.1",
+    "num": "7.1",
+    "title": "Grundlegende Informationen und Rahmenbedingungen zum Umgang mit KI"
+   },
+   {
+    "id": "1133-7.2",
+    "num": "7.2",
+    "title": "Hintergründe zur Entstehung und Einordnung KI-generierter Werke"
+   },
+   {
+    "id": "1133-7.3",
+    "num": "7.3",
+    "title": "Einsatzmöglichkeiten von KI"
+   },
+   {
+    "id": "1133-7.3.2",
+    "num": "7.3.2",
+    "title": "Prompten"
+   },
+   {
+    "id": "1133-7.3.3",
+    "num": "7.3.3",
+    "title": "Konkrete Einsatzfelder für KI-Tools beim wissenschaftlichen Arbeiten"
+   },
+   {
+    "id": "1133-7.3.4",
+    "num": "7.3.4",
+    "title": "Gefahren bei unbedachtem Umgang mit KI-Tools"
+   },
+   {
+    "id": "1133-7.4",
+    "num": "7.4",
+    "title": "Herausforderungen und Gefahren bei der Anwendung von KI"
+   },
+   {
+    "id": "1133-7.5",
+    "num": "7.5",
+    "title": "Offenlegung der Nutzung von KI und Zitation"
+   },
+   {
+    "id": "1133-7.6",
+    "num": "7.6",
+    "title": "Bewertung von mit KI erstellten Prüfungsleistungen"
+   },
+   {
+    "id": "1133-7.7",
+    "num": "7.7",
+    "title": "Tool-Liste"
+   },
+   {
+    "id": "1133-7.8",
+    "num": "7.8",
+    "title": "Austausch zu KI-Themen / Ansprechpersonen an der Hochschule"
+   }
+  ]
+ },
+ {
+  "code": "0638",
+  "module": "BSOPSY",
+  "title": "Sozialpsychologie",
+  "sections": [
+   {
+    "id": "0638-1",
+    "num": "1",
+    "title": "Grundlagen der Sozialpsychologie"
+   },
+   {
+    "id": "0638-1.1",
+    "num": "1.1",
+    "title": "Was ist Sozialpsychologie?"
+   },
+   {
+    "id": "0638-1.1.1",
+    "num": "1.1.1",
+    "title": "Gegenstand der Sozialpsychologie"
+   },
+   {
+    "id": "0638-1.1.2",
+    "num": "1.1.2",
+    "title": "Geschichte der Sozialpsychologie"
+   },
+   {
+    "id": "0638-2",
+    "num": "2",
+    "title": "Die Macht der sozialen Interpretation"
+   },
+   {
+    "id": "0638-2.1",
+    "num": "2.1",
+    "title": "Was ist eine soziale Situation und was kennzeichnet sie?"
+   },
+   {
+    "id": "0638-2.2",
+    "num": "2.2",
+    "title": "Verschiedene Arten und Motive der Deutung der sozialen Situation"
+   },
+   {
+    "id": "0638-3",
+    "num": "3",
+    "title": "Die Macht der Situation – Klassische Experimente der Sozialpsychologie"
+   },
+   {
+    "id": "0638-3.1",
+    "num": "3.1",
+    "title": "Was ist prägend für unser Verhalten – die Persönlichkeit oder die Situation?"
+   },
+   {
+    "id": "0638-3.2",
+    "num": "3.2",
+    "title": "Der Einfluss von Gruppendruck: der Asch-Effekt"
+   },
+   {
+    "id": "0638-3.3",
+    "num": "3.3",
+    "title": "Der Einfluss von Autoritäten: Das Milgram-Experiment"
+   },
+   {
+    "id": "0638-3.4",
+    "num": "3.4",
+    "title": "Der Einfluss von sozialen Rollen: Das Stanford-Gefängnisexperiment"
+   },
+   {
+    "id": "0638-4",
+    "num": "4",
+    "title": "Sozialpsychologie im Alltag"
+   },
+   {
+    "id": "0638-4.1",
+    "num": "4.1",
+    "title": "Einordnung des Themas"
+   },
+   {
+    "id": "0638-4.2",
+    "num": "4.2",
+    "title": "Die Förderung eines nachhaltigen Lebensstiles"
+   },
+   {
+    "id": "0638-4.3",
+    "num": "4.3",
+    "title": "Die Förderung der Gesundheit"
+   },
+   {
+    "id": "0638-4.4",
+    "num": "4.4",
+    "title": "Sozialpsychologie und Recht: Zeugenaussagen"
+   },
+   {
+    "id": "0638-5.1",
+    "num": "5.1",
+    "title": "Sozialpsychologie, Kultur und die Verallgemeinerbarkeit der Aussagen"
+   },
+   {
+    "id": "0638-5.2",
+    "num": "5.2",
+    "title": "Aktuelle Herausforderungen der Sozialpsychologie"
+   },
+   {
+    "id": "0638-5.3",
+    "num": "5.3",
+    "title": "Das ethische Dilemma der Sozialpsychologie-Forschung"
+   },
+   {
+    "id": "0638-6",
+    "num": "6",
+    "title": "Grundlegende sozialpsychologische Prozesse und unsere Sicht auf uns und die Welt"
+   },
+   {
+    "id": "0638-6.1",
+    "num": "6.1",
+    "title": "Selbstkonzept – das Verständnis unserer Selbst"
+   },
+   {
+    "id": "0638-6.1.1",
+    "num": "6.1.1",
+    "title": "Definition und Bedeutung des Begriffes Selbst"
+   },
+   {
+    "id": "0638-6.1.2",
+    "num": "6.1.2",
+    "title": "Die drei Funktionen des Selbst"
+   },
+   {
+    "id": "0638-6.1.3",
+    "num": "6.1.3",
+    "title": "Die Stabilität des Selbstkonzeptes"
+   },
+   {
+    "id": "0638-6.1.4",
+    "num": "6.1.4",
+    "title": "Selbsterkenntnis – Wie definiert sich unser Selbst?"
+   },
+   {
+    "id": "0638-6.1.5",
+    "num": "6.1.5",
+    "title": "Impression Management und die Wahrung eines positiven Selbstbildes"
+   },
+   {
+    "id": "0638-7",
+    "num": "7",
+    "title": "Das Bedürfnis, unserer Verhalten zu rechtfertigen: Die Theorie der kognitiven Dissonanz"
+   },
+   {
+    "id": "0638-7.1",
+    "num": "7.1",
+    "title": "Das Forced-Compliance-Paradigma: Das klassische Experiment zur Dissonanzreduktion"
+   },
+   {
+    "id": "0638-7.2",
+    "num": "7.2",
+    "title": "Kognitive Dissonanz im Alltag"
+   },
+   {
+    "id": "0638-7.3",
+    "num": "7.3",
+    "title": "Kognitive Dissonanz und kultureller Hintergrund"
+   },
+   {
+    "id": "0638-8",
+    "num": "8",
+    "title": "Soziale Wahrnehmung – Wie wir andere Menschen verstehen"
+   },
+   {
+    "id": "0638-8.1",
+    "num": "8.1",
+    "title": "Soziale Wahrnehmung – Grundlagen"
+   },
+   {
+    "id": "0638-8.1.1",
+    "num": "8.1.1",
+    "title": "Eindrucksbildung auch ohne persönliche Begegnung"
+   },
+   {
+    "id": "0638-8.1.2",
+    "num": "8.1.2",
+    "title": "Eindrucksbildung bei persönlicher Begegnung"
+   },
+   {
+    "id": "0638-8.2",
+    "num": "8.2",
+    "title": "Die Frage nach dem Warum: Die Attributionstheorien von Heider und Kelley"
+   },
+   {
+    "id": "0638-8.2.1",
+    "num": "8.2.1",
+    "title": "Die Attributionstheorie von Fritz Heider"
+   },
+   {
+    "id": "0638-8.2.2",
+    "num": "8.2.2",
+    "title": "Das Kovariationsmodell von Kelley"
+   },
+   {
+    "id": "0638-8.3",
+    "num": "8.3",
+    "title": "Attributionsverzerrungen: Fehler beim Prozess der Ursachenzuschreibung"
+   },
+   {
+    "id": "0638-8.4",
+    "num": "8.4",
+    "title": "Selbstattribution: Die Attribution von Erfolg und Misserfolg nach Weiner"
+   },
+   {
+    "id": "0638-8.5",
+    "num": "8.5",
+    "title": "Die Theorie der erlernten Hilflosigkeit (Seligman)"
+   },
+   {
+    "id": "0638-8.6",
+    "num": "8.6",
+    "title": "Die Reaktanz-Theorie (Brehm)"
+   },
+   {
+    "id": "0638-9",
+    "num": "9",
+    "title": "Soziale Kognition – das Denken über unsere soziale Welt"
+   },
+   {
+    "id": "0638-9.1",
+    "num": "9.1",
+    "title": "Die Bedeutung des Begriffes ‚soziale Kognition‘"
+   },
+   {
+    "id": "0638-9.2",
+    "num": "9.2",
+    "title": "Voreilige Schlüsse versus gründliches Nachdenken"
+   },
+   {
+    "id": "0638-9.2.1",
+    "num": "9.2.1",
+    "title": "Automatische und kontrollierte Prozesse"
+   },
+   {
+    "id": "0638-9.2.2",
+    "num": "9.2.2",
+    "title": "Die Grundlage und Entstehung automatischer Prozesse"
+   },
+   {
+    "id": "0638-9.2.3",
+    "num": "9.2.3",
+    "title": "Erlangung kognitiver Kontrolle"
+   },
+   {
+    "id": "0638-9.3",
+    "num": "9.3",
+    "title": "Vorurteile"
+   },
+   {
+    "id": "0638-9.3.1",
+    "num": "9.3.1",
+    "title": "Ursachen von Vorurteilen und Diskriminierung"
+   },
+   {
+    "id": "0638-9.3.2",
+    "num": "9.3.2",
+    "title": "Wie kommt es zur Wirkung des Vorurteils?"
+   },
+   {
+    "id": "0638-9.3.3",
+    "num": "9.3.3",
+    "title": "Prävention und Verringerung von Vorurteilen"
+   },
+   {
+    "id": "0638-10",
+    "num": "10",
+    "title": "Einstellungen – Die Brille, durch die wir die Welt betrachten"
+   },
+   {
+    "id": "0638-10.1",
+    "num": "10.1",
+    "title": "Definition und Bedeutung"
+   },
+   {
+    "id": "0638-10.2",
+    "num": "10.2",
+    "title": "Entstehung von Einstellungen"
+   },
+   {
+    "id": "0638-10.3",
+    "num": "10.3",
+    "title": "Änderung von Einstellungen"
+   },
+   {
+    "id": "0638-10.4",
+    "num": "10.4",
+    "title": "Resistenz gegenüber Einstellungsänderungsversuchen"
+   },
+   {
+    "id": "0638-10.5",
+    "num": "10.5",
+    "title": "Einstellungen und ihre Vorhersagekraft für zukünftiges Verhalten"
+   },
+   {
+    "id": "0638-11.1",
+    "num": "11.1",
+    "title": "Aggression – Warum Menschen einander schädigen"
+   },
+   {
+    "id": "0638-12",
+    "num": "12",
+    "title": "Prosoziales Verhalten – Warum wir anderen helfen"
+   },
+   {
+    "id": "0638-12.1",
+    "num": "12.1",
+    "title": "Warum Menschen anderen Menschen helfen – Begriffsbestimmungen"
+   },
+   {
+    "id": "0638-12.2",
+    "num": "12.2",
+    "title": "Erklärungsansätze für Hilfeverhalten"
+   },
+   {
+    "id": "0638-12.3",
+    "num": "12.3",
+    "title": "Personenbezogene Einflussfaktoren prosozialen Verhaltens"
+   },
+   {
+    "id": "0638-12.4",
+    "num": "12.4",
+    "title": "Situationsbedingte Einflussfaktoren prosozialen Verhaltens: Wann helfen Menschen?"
+   },
+   {
+    "id": "0638-12.5",
+    "num": "12.5",
+    "title": "Warum Menschen im Notfall nicht helfen"
+   },
+   {
+    "id": "0638-13",
+    "num": "13",
+    "title": "Individuelles Verhalten im Gruppenkontext"
+   },
+   {
+    "id": "0638-13.1",
+    "num": "13.1",
+    "title": "Grundlagen, Einordnung des Themas und Begriffserklärungen"
+   },
+   {
+    "id": "0638-13.2",
+    "num": "13.2",
+    "title": "Die Entstehung von Gruppen und die Wahrnehmung der Gruppenzugehörigkeit"
+   },
+   {
+    "id": "0638-13.3",
+    "num": "13.3",
+    "title": "Individuelles Verhalten im Gruppenkontext und soziale Beeinflussung"
+   },
+   {
+    "id": "0638-13.4",
+    "num": "13.4",
+    "title": "Absichtlicher sozialer Einfluss"
+   },
+   {
+    "id": "0638-14",
+    "num": "14",
+    "title": "Gruppenkonflikte und Kooperation"
+   },
+   {
+    "id": "0638-14.1",
+    "num": "14.1",
+    "title": "Einordnung des Themas"
+   },
+   {
+    "id": "0638-14.2",
+    "num": "14.2",
+    "title": "Grundlegende Mechanismen für Gruppenkonflikte"
+   },
+   {
+    "id": "0638-14.3",
+    "num": "14.3",
+    "title": "Konfliktarten und Begriffsbestimmung"
+   },
+   {
+    "id": "0638-14.4",
+    "num": "14.4",
+    "title": "Soziale Dilemmata"
+   },
+   {
+    "id": "0638-14.5",
+    "num": "14.5",
+    "title": "Bedrohungen bei der Konfliktlösung und die Rolle der Kommunikation"
+   },
+   {
+    "id": "0638-14.6",
+    "num": "14.6",
+    "title": "Wann eskalieren Konflikte?"
+   },
+   {
+    "id": "0638-14.7",
+    "num": "14.7",
+    "title": "Die Lösung von Konflikten"
+   },
+   {
+    "id": "0638-15",
+    "num": "15",
+    "title": "Gruppenentscheidungen"
+   },
+   {
+    "id": "0638-15.1",
+    "num": "15.1",
+    "title": "Einordnung des Themas"
+   },
+   {
+    "id": "0638-15.2",
+    "num": "15.2",
+    "title": "Grundsätzliche Einflüsse auf die Gruppenleistung"
+   },
+   {
+    "id": "0638-15.3",
+    "num": "15.3",
+    "title": "Die Gruppeninteraktion als negativer Einfluss auf gute Problemlösung"
+   },
+   {
+    "id": "0638-15.4",
+    "num": "15.4",
+    "title": "Gruppenpolarisierung und extreme Entscheidungen"
+   },
+   {
+    "id": "0638-15.5",
+    "num": "15.5",
+    "title": "Führung, Management und Optimierung der Gruppenleistung"
+   }
+  ]
+ },
+ {
+  "code": "1105",
+  "module": "BPERPS",
+  "title": "Grundlagen der Differentiellen und Persönlichkeitspsychologie",
+  "sections": [
+   {
+    "id": "1105-1",
+    "num": "1",
+    "title": "Persönlichkeitspsychologie im Überblick"
+   },
+   {
+    "id": "1105-1.1",
+    "num": "1.1",
+    "title": "Einführung"
+   },
+   {
+    "id": "1105-1.2",
+    "num": "1.2",
+    "title": "Kontroversen"
+   },
+   {
+    "id": "1105-1.2.1",
+    "num": "1.2.1",
+    "title": "Einzigartigkeit versus Generalisierbarkeit"
+   },
+   {
+    "id": "1105-1.2.2",
+    "num": "1.2.2",
+    "title": "Person versus Situation"
+   },
+   {
+    "id": "1105-1.2.3",
+    "num": "1.2.3",
+    "title": "Außen- versus Innenperspektive"
+   },
+   {
+    "id": "1105-1.3",
+    "num": "1.3",
+    "title": "Aufgaben wissenschaftlicher Persönlichkeitstheorien"
+   },
+   {
+    "id": "1105-1.4",
+    "num": "1.4",
+    "title": "Geschichtliche Aspekte"
+   },
+   {
+    "id": "1105-2",
+    "num": "2",
+    "title": "Eigenschaftstheoretische Ansätze"
+   },
+   {
+    "id": "1105-2.1",
+    "num": "2.1",
+    "title": "Einführung"
+   },
+   {
+    "id": "1105-2.2",
+    "num": "2.2",
+    "title": "Persönlichkeitstypen"
+   },
+   {
+    "id": "1105-2.2.1",
+    "num": "2.2.1",
+    "title": "Wundts Temperamentslehre"
+   },
+   {
+    "id": "1105-2.2.2",
+    "num": "2.2.2",
+    "title": "Jungs Typenlehre"
+   },
+   {
+    "id": "1105-2.2.3",
+    "num": "2.2.3",
+    "title": "Die drei Persönlichkeitsdimensionen von Eysenck"
+   },
+   {
+    "id": "1105-2.2.4",
+    "num": "2.2.4",
+    "title": "Marstons Modell der emotionalen Reaktionen"
+   },
+   {
+    "id": "1105-2.2.5",
+    "num": "2.2.5",
+    "title": "Das DISG-Modell"
+   },
+   {
+    "id": "1105-2.2.6",
+    "num": "2.2.6",
+    "title": "INSIGHTS MDI®"
+   },
+   {
+    "id": "1105-2.2.7",
+    "num": "2.2.7",
+    "title": "Myers-Briggs Type Indicator"
+   },
+   {
+    "id": "1105-2.2.8",
+    "num": "2.2.8",
+    "title": "Diskussion"
+   },
+   {
+    "id": "1105-2.3",
+    "num": "2.3",
+    "title": "Persönlichkeitseigenschaften"
+   },
+   {
+    "id": "1105-2.3.1",
+    "num": "2.3.1",
+    "title": "Die Eigenschaftstheorie von Allport"
+   },
+   {
+    "id": "1105-2.3.2",
+    "num": "2.3.2",
+    "title": "Die 16 Persönlichkeitseigenschaften von Cattell"
+   },
+   {
+    "id": "1105-2.3.3",
+    "num": "2.3.3",
+    "title": "Die Big Five von Costa und McCrae"
+   },
+   {
+    "id": "1105-2.3.4",
+    "num": "2.3.4",
+    "title": "Das HEXACO-Modell von Ashton und Lee"
+   },
+   {
+    "id": "1105-2.3.5",
+    "num": "2.3.5",
+    "title": "Die neuen Big Five von McAdams und Pals"
+   },
+   {
+    "id": "1105-2.3.6",
+    "num": "2.3.6",
+    "title": "Die dunkle vs. helle Triade der Persönlichkeit"
+   },
+   {
+    "id": "1105-2.3.7",
+    "num": "2.3.7",
+    "title": "Diskussion"
+   },
+   {
+    "id": "1105-3",
+    "num": "3",
+    "title": "Persönlichkeitstheorien und -konstrukte"
+   },
+   {
+    "id": "1105-3.1",
+    "num": "3.1",
+    "title": "Psychodynamische Aspekte"
+   },
+   {
+    "id": "1105-3.1.1",
+    "num": "3.1.1",
+    "title": "Freud"
+   },
+   {
+    "id": "1105-3.1.2",
+    "num": "3.1.2",
+    "title": "Jung"
+   },
+   {
+    "id": "1105-3.1.3",
+    "num": "3.1.3",
+    "title": "Diskussion"
+   },
+   {
+    "id": "1105-3.2",
+    "num": "3.2",
+    "title": "Biologische Aspekte"
+   },
+   {
+    "id": "1105-3.2.1",
+    "num": "3.2.1",
+    "title": "Eysencks biologisches Modell von Persönlichkeit und Aktivierung"
+   },
+   {
+    "id": "1105-3.2.2",
+    "num": "3.2.2",
+    "title": "Grays Theorie der Persönlichkeit"
+   },
+   {
+    "id": "1105-3.2.3",
+    "num": "3.2.3",
+    "title": "Die biosoziale Persönlichkeitstheorie von Cloninger"
+   },
+   {
+    "id": "1105-3.2.4",
+    "num": "3.2.4",
+    "title": "Sensation-Seeking von Zuckerman"
+   },
+   {
+    "id": "1105-3.2.5",
+    "num": "3.2.5",
+    "title": "Diskussion"
+   },
+   {
+    "id": "1105-3.3",
+    "num": "3.3",
+    "title": "Kellys konstruktivistische Theorie"
+   },
+   {
+    "id": "1105-3.4",
+    "num": "3.4",
+    "title": "Humanistische Theorien"
+   },
+   {
+    "id": "1105-3.4.1",
+    "num": "3.4.1",
+    "title": "Einführung"
+   },
+   {
+    "id": "1105-3.4.2",
+    "num": "3.4.2",
+    "title": "Maslow und die Selbstverwirklichung"
+   },
+   {
+    "id": "1105-3.4.3",
+    "num": "3.4.3",
+    "title": "Rogers und die Selbstaktualisierung"
+   },
+   {
+    "id": "1105-3.4.4",
+    "num": "3.4.4",
+    "title": "Diskussion"
+   },
+   {
+    "id": "1105-3.5",
+    "num": "3.5",
+    "title": "Kognitive Theorien"
+   },
+   {
+    "id": "1105-3.5.1",
+    "num": "3.5.1",
+    "title": "Rotter und das Konstrukt der Kontrollüberzeugung"
+   },
+   {
+    "id": "1105-3.5.2",
+    "num": "3.5.2",
+    "title": "Bandura und das Konstrukt der Selbstwirksamkeit"
+   },
+   {
+    "id": "1105-3.5.3",
+    "num": "3.5.3",
+    "title": "Mischels kognitiv-affektives Persönlichkeitssystem (CAPS)"
+   },
+   {
+    "id": "1105-3.5.4",
+    "num": "3.5.4",
+    "title": "Diskussion"
+   },
+   {
+    "id": "1105-3.6",
+    "num": "3.6",
+    "title": "Handlungstheoretische Modelle"
+   },
+   {
+    "id": "1105-3.6.1",
+    "num": "3.6.1",
+    "title": "Das handlungstheoretische Partialmodell der Persönlichkeit von Krampen"
+   },
+   {
+    "id": "1105-3.6.2",
+    "num": "3.6.2",
+    "title": "Das Risikowahlmodell der Leistungsmotivation von Atkinson"
+   },
+   {
+    "id": "1105-3.6.3",
+    "num": "3.6.3",
+    "title": "Diskussion"
+   },
+   {
+    "id": "1105-4",
+    "num": "4",
+    "title": "Fähigkeitsbezogene Persönlichkeitsmerkmale"
+   },
+   {
+    "id": "1105-4.1",
+    "num": "4.1",
+    "title": "Einführung"
+   },
+   {
+    "id": "1105-4.2",
+    "num": "4.2",
+    "title": "Intelligenz"
+   },
+   {
+    "id": "1105-4.2.1",
+    "num": "4.2.1",
+    "title": "Anfänge der Intelligenzforschung"
+   },
+   {
+    "id": "1105-4.2.2",
+    "num": "4.2.2",
+    "title": "Modelle der Intelligenz"
+   },
+   {
+    "id": "1105-4.2.3",
+    "num": "4.2.3",
+    "title": "Diskussion"
+   },
+   {
+    "id": "1105-4.3",
+    "num": "4.3",
+    "title": "Modelle der emotionalen Intelligenz"
+   },
+   {
+    "id": "1105-4.3.1",
+    "num": "4.3.1",
+    "title": "Das Modell der emotionalen Intelligenz von Salovey und Mayer"
+   },
+   {
+    "id": "1105-4.3.2",
+    "num": "4.3.2",
+    "title": "Das Modell der emotionalen Intelligenz von Goleman"
+   },
+   {
+    "id": "1105-4.3.3",
+    "num": "4.3.3",
+    "title": "Das Modell der emotionalen Intelligenz von Bar-On"
+   },
+   {
+    "id": "1105-4.3.4",
+    "num": "4.3.4",
+    "title": "Diskussion"
+   },
+   {
+    "id": "1105-4.4",
+    "num": "4.4",
+    "title": "Kreativität"
+   },
+   {
+    "id": "1105-5",
+    "num": "5",
+    "title": "Emotionsbezogene Persönlichkeitsmerkmale"
+   },
+   {
+    "id": "1105-5.1",
+    "num": "5.1",
+    "title": "Ängstlichkeit"
+   },
+   {
+    "id": "1105-5.2",
+    "num": "5.2",
+    "title": "Ärger"
+   },
+   {
+    "id": "1105-5.3",
+    "num": "5.3",
+    "title": "Negative Affektivität"
+   },
+   {
+    "id": "1105-5.4",
+    "num": "5.4",
+    "title": "Positive Emotionalität"
+   },
+   {
+    "id": "1105-5.5",
+    "num": "5.5",
+    "title": "Diskussion"
+   }
+  ]
+ },
+ {
+  "code": "1106",
+  "module": "BPERPS",
+  "title": "Praxisfelder der Differentiellen und Persönlichkeitspsychologie",
+  "sections": [
+   {
+    "id": "1106-1",
+    "num": "1",
+    "title": "Selbstkonzept und Selbstdarstellung"
+   },
+   {
+    "id": "1106-1.1",
+    "num": "1.1",
+    "title": "Einführung"
+   },
+   {
+    "id": "1106-1.2",
+    "num": "1.2",
+    "title": "Wissen über das eigene Selbst"
+   },
+   {
+    "id": "1106-1.3",
+    "num": "1.3",
+    "title": "Facetten des Selbstkonzepts"
+   },
+   {
+    "id": "1106-1.4",
+    "num": "1.4",
+    "title": "Selbstaufmerksamkeit"
+   },
+   {
+    "id": "1106-1.5",
+    "num": "1.5",
+    "title": "Selbstüberwachung"
+   },
+   {
+    "id": "1106-1.6",
+    "num": "1.6",
+    "title": "Die Big Five als Selbstdarstellungsstrategien"
+   },
+   {
+    "id": "1106-1.7",
+    "num": "1.7",
+    "title": "Situative Selbstbild-Identitäten"
+   },
+   {
+    "id": "1106-1.8",
+    "num": "1.8",
+    "title": "Das Beziehungsselbst"
+   },
+   {
+    "id": "1106-1.9",
+    "num": "1.9",
+    "title": "Selbstdarstellung in neuen Medien"
+   },
+   {
+    "id": "1106-2",
+    "num": "2",
+    "title": "Persönlichkeit und Krankheitsprävention"
+   },
+   {
+    "id": "1106-2.1",
+    "num": "2.1",
+    "title": "Einführung"
+   },
+   {
+    "id": "1106-2.2",
+    "num": "2.2",
+    "title": "Definition von Gesundheit"
+   },
+   {
+    "id": "1106-2.3",
+    "num": "2.3",
+    "title": "Zusammenhang zwischen Persönlichkeit und Gesundheit"
+   },
+   {
+    "id": "1106-2.4",
+    "num": "2.4",
+    "title": "Gesundheitsrelevante Persönlichkeitsmerkmale"
+   },
+   {
+    "id": "1106-2.4.1",
+    "num": "2.4.1",
+    "title": "Stressbewältigung"
+   },
+   {
+    "id": "1106-2.4.2",
+    "num": "2.4.2",
+    "title": "Soziale Unterstützung und wahrgenommene soziale Unterstützung"
+   },
+   {
+    "id": "1106-2.4.3",
+    "num": "2.4.3",
+    "title": "Optimismus"
+   },
+   {
+    "id": "1106-2.4.4",
+    "num": "2.4.4",
+    "title": "Kontrollüberzeugung"
+   },
+   {
+    "id": "1106-2.4.5",
+    "num": "2.4.5",
+    "title": "Selbstwirksamkeit"
+   },
+   {
+    "id": "1106-2.4.6",
+    "num": "2.4.6",
+    "title": "Kohärenzsinn"
+   },
+   {
+    "id": "1106-2.4.7",
+    "num": "2.4.7",
+    "title": "Neurotizismus"
+   },
+   {
+    "id": "1106-2.4.8",
+    "num": "2.4.8",
+    "title": "Typ-A-Muster"
+   },
+   {
+    "id": "1106-2.4.9",
+    "num": "2.4.9",
+    "title": "Emotionsregulation"
+   },
+   {
+    "id": "1106-2.5",
+    "num": "2.5",
+    "title": "Diskussion"
+   },
+   {
+    "id": "1106-3",
+    "num": "3",
+    "title": "Persönlichkeit und Klinische Psychologie"
+   },
+   {
+    "id": "1106-3.1",
+    "num": "3.1",
+    "title": "Einführung"
+   },
+   {
+    "id": "1106-3.2",
+    "num": "3.2",
+    "title": "Klassifikation von Persönlichkeitsstörungen"
+   },
+   {
+    "id": "1106-3.3",
+    "num": "3.3",
+    "title": "Persönlichkeitsstörungen Cluster A"
+   },
+   {
+    "id": "1106-3.3.1",
+    "num": "3.3.1",
+    "title": "Die paranoide Persönlichkeitsstörung"
+   },
+   {
+    "id": "1106-3.3.2",
+    "num": "3.3.2",
+    "title": "Die schizoide Persönlichkeitsstörung"
+   },
+   {
+    "id": "1106-3.3.3",
+    "num": "3.3.3",
+    "title": "Die schizotypische Persönlichkeitsstörung"
+   },
+   {
+    "id": "1106-3.4",
+    "num": "3.4",
+    "title": "Persönlichkeitsstörungen Cluster B"
+   },
+   {
+    "id": "1106-3.4.1",
+    "num": "3.4.1",
+    "title": "Die antisoziale Persönlichkeitsstörung"
+   },
+   {
+    "id": "1106-3.4.2",
+    "num": "3.4.2",
+    "title": "Die Borderline-Persönlichkeitsstörung"
+   },
+   {
+    "id": "1106-3.4.3",
+    "num": "3.4.3",
+    "title": "Die histrionische Persönlichkeitsstörung"
+   },
+   {
+    "id": "1106-3.4.4",
+    "num": "3.4.4",
+    "title": "Die narzisstische Persönlichkeitsstörung"
+   },
+   {
+    "id": "1106-3.5",
+    "num": "3.5",
+    "title": "Persönlichkeitsstörungen Cluster C"
+   },
+   {
+    "id": "1106-3.5.1",
+    "num": "3.5.1",
+    "title": "Die vermeidend-selbstunsichere Persönlichkeitsstörung"
+   },
+   {
+    "id": "1106-3.5.2",
+    "num": "3.5.2",
+    "title": "Die abhängige Persönlichkeitsstörung"
+   },
+   {
+    "id": "1106-3.5.3",
+    "num": "3.5.3",
+    "title": "Die zwanghafte Persönlichkeitsstörung"
+   },
+   {
+    "id": "1106-3.6",
+    "num": "3.6",
+    "title": "Einflüsse auf Persönlichkeitsstörungen"
+   },
+   {
+    "id": "1106-3.7",
+    "num": "3.7",
+    "title": "Diskussion"
+   },
+   {
+    "id": "1106-4",
+    "num": "4",
+    "title": "Persönlichkeit und Personalauswahl"
+   },
+   {
+    "id": "1106-4.1",
+    "num": "4.1",
+    "title": "Einführung"
+   },
+   {
+    "id": "1106-4.2",
+    "num": "4.2",
+    "title": "Persönlichkeitstests in der Personalauswahl"
+   },
+   {
+    "id": "1106-4.3",
+    "num": "4.3",
+    "title": "Praxisbeispiele"
+   },
+   {
+    "id": "1106-4.3.1",
+    "num": "4.3.1",
+    "title": "Intelligenzkomponenten zur Vorhersage der Studierfähigkeit"
+   },
+   {
+    "id": "1106-4.3.2",
+    "num": "4.3.2",
+    "title": "Leistungsmotivation als Prädiktor für den Berufserfolg"
+   },
+   {
+    "id": "1106-4.3.3",
+    "num": "4.3.3",
+    "title": "Persönlichkeitsmerkmale als Prädiktoren"
+   },
+   {
+    "id": "1106-4.4",
+    "num": "4.4",
+    "title": "Diskussion"
+   },
+   {
+    "id": "1106-5",
+    "num": "5",
+    "title": "Persönlichkeit und Personalentwicklung"
+   },
+   {
+    "id": "1106-5.1",
+    "num": "5.1",
+    "title": "Einführung"
+   },
+   {
+    "id": "1106-5.2",
+    "num": "5.2",
+    "title": "Praxisbeispiele"
+   },
+   {
+    "id": "1106-5.2.1",
+    "num": "5.2.1",
+    "title": "Potenzialanalyse im Führungskräftetraining"
+   },
+   {
+    "id": "1106-5.2.2",
+    "num": "5.2.2",
+    "title": "Teamentwicklung und Rollen im Team"
+   },
+   {
+    "id": "1106-5.2.3",
+    "num": "5.2.3",
+    "title": "360-Grad-Feedback als Beispiel für Multisource-Feedback"
+   },
+   {
+    "id": "1106-5.2.4",
+    "num": "5.2.4",
+    "title": "Coaching"
+   },
+   {
+    "id": "1106-5.3",
+    "num": "5.3",
+    "title": "Diskussion"
+   },
+   {
+    "id": "1106-6",
+    "num": "6",
+    "title": "Messung von Persönlichkeitsmerkmalen und Fähigkeiten"
+   },
+   {
+    "id": "1106-6.1",
+    "num": "6.1",
+    "title": "Ansprüche an wissenschaftliche Theorien"
+   },
+   {
+    "id": "1106-6.2",
+    "num": "6.2",
+    "title": "Methodische Zugänge"
+   },
+   {
+    "id": "1106-6.2.1",
+    "num": "6.2.1",
+    "title": "Einführung"
+   },
+   {
+    "id": "1106-6.2.2",
+    "num": "6.2.2",
+    "title": "Variationsansatz"
+   },
+   {
+    "id": "1106-6.2.3",
+    "num": "6.2.3",
+    "title": "Korrelationsansatz"
+   },
+   {
+    "id": "1106-6.2.4",
+    "num": "6.2.4",
+    "title": "Faktorenanalyse"
+   },
+   {
+    "id": "1106-6.2.5",
+    "num": "6.2.5",
+    "title": "Psychografischer Ansatz"
+   },
+   {
+    "id": "1106-6.2.6",
+    "num": "6.2.6",
+    "title": "Komparationsansatz"
+   },
+   {
+    "id": "1106-6.3",
+    "num": "6.3",
+    "title": "Datengewinnung"
+   },
+   {
+    "id": "1106-6.3.1",
+    "num": "6.3.1",
+    "title": "Die experimentelle Methode"
+   },
+   {
+    "id": "1106-6.3.2",
+    "num": "6.3.2",
+    "title": "Psychometrische Verfahren"
+   },
+   {
+    "id": "1106-6.3.3",
+    "num": "6.3.3",
+    "title": "Fremdeinschätzung"
+   },
+   {
+    "id": "1106-6.3.4",
+    "num": "6.3.4",
+    "title": "Verhaltensbeobachtung"
+   },
+   {
+    "id": "1106-6.3.5",
+    "num": "6.3.5",
+    "title": "Indirekte Verfahren"
+   },
+   {
+    "id": "1106-6.4",
+    "num": "6.4",
+    "title": "Kriterien zur Beurteilung psychometrischer Verfahren"
+   },
+   {
+    "id": "1106-6.4.1",
+    "num": "6.4.1",
+    "title": "Objektivität"
+   },
+   {
+    "id": "1106-6.4.2",
+    "num": "6.4.2",
+    "title": "Reliabilität"
+   },
+   {
+    "id": "1106-6.4.3",
+    "num": "6.4.3",
+    "title": "Validität"
+   },
+   {
+    "id": "1106-6.4.4",
+    "num": "6.4.4",
+    "title": "Normierung"
+   },
+   {
+    "id": "1106-6.5",
+    "num": "6.5",
+    "title": "Qualitätssicherung"
+   }
+  ]
+ },
+ {
+  "code": "1170",
+  "module": "BAPSY1",
+  "title": "Lernen und Gedächtnis",
+  "sections": [
+   {
+    "id": "1170-1",
+    "num": "1",
+    "title": "Lernen"
+   },
+   {
+    "id": "1170-1.1",
+    "num": "1.1",
+    "title": "Gegenstandsbestimmung"
+   },
+   {
+    "id": "1170-1.2",
+    "num": "1.2",
+    "title": "Entwicklung des Lernbegriffs: Vorläufer der modernen Lernforschung"
+   },
+   {
+    "id": "1170-1.3",
+    "num": "1.3",
+    "title": "Der Behaviorismus"
+   },
+   {
+    "id": "1170-2",
+    "num": "2",
+    "title": "Klassische Konditionierung"
+   },
+   {
+    "id": "1170-2.1",
+    "num": "2.1",
+    "title": "Die klassische Konditionierung nach I.P. Pawlow"
+   },
+   {
+    "id": "1170-2.1.1",
+    "num": "2.1.1",
+    "title": "Pawlows Experiment"
+   },
+   {
+    "id": "1170-2.1.2",
+    "num": "2.1.2",
+    "title": "Erwerb, Kontiguität und Kontingenz"
+   },
+   {
+    "id": "1170-2.1.3",
+    "num": "2.1.3",
+    "title": "Löschung, Spontanerholung und Ersparnis"
+   },
+   {
+    "id": "1170-2.1.4",
+    "num": "2.1.4",
+    "title": "Reizgeneralisierung und Reizdiskrimination"
+   },
+   {
+    "id": "1170-2.1.5",
+    "num": "2.1.5",
+    "title": "Weitere Aspekte der klassischen Konditionierung"
+   },
+   {
+    "id": "1170-2.2",
+    "num": "2.2",
+    "title": "Die klassische Konditionierung und die Arbeiten von J.B. Watson"
+   },
+   {
+    "id": "1170-2.3",
+    "num": "2.3",
+    "title": "Anwendung der klassischen Konditionierung"
+   },
+   {
+    "id": "1170-3",
+    "num": "3",
+    "title": "Operante Konditionierung"
+   },
+   {
+    "id": "1170-3.1",
+    "num": "3.1",
+    "title": "Skinners Ansatz der operanten Konditionierung"
+   },
+   {
+    "id": "1170-3.2",
+    "num": "3.2",
+    "title": "Verhaltensformung"
+   },
+   {
+    "id": "1170-3.2.1",
+    "num": "3.2.1",
+    "title": "Shaping"
+   },
+   {
+    "id": "1170-3.2.2",
+    "num": "3.2.2",
+    "title": "Chaining"
+   },
+   {
+    "id": "1170-3.3",
+    "num": "3.3",
+    "title": "Verstärkungs- und Bestrafungsprinzipien"
+   },
+   {
+    "id": "1170-3.3.1",
+    "num": "3.3.1",
+    "title": "Verstärkung"
+   },
+   {
+    "id": "1170-3.3.2",
+    "num": "3.3.2",
+    "title": "Bestrafung"
+   },
+   {
+    "id": "1170-3.3.3",
+    "num": "3.3.3",
+    "title": "Verstärkung und Bestrafung"
+   },
+   {
+    "id": "1170-3.4",
+    "num": "3.4",
+    "title": "Verstärkungspläne"
+   },
+   {
+    "id": "1170-3.4.1",
+    "num": "3.4.1",
+    "title": "Fixierte Quotenpläne (FR-Pläne)"
+   },
+   {
+    "id": "1170-3.4.2",
+    "num": "3.4.2",
+    "title": "Variable Quotenpläne (VR-Pläne)"
+   },
+   {
+    "id": "1170-3.4.3",
+    "num": "3.4.3",
+    "title": "Fixierte Intervallpläne (FI-Pläne)"
+   },
+   {
+    "id": "1170-3.4.4",
+    "num": "3.4.4",
+    "title": "Variable Intervallpläne (VI-Pläne)"
+   },
+   {
+    "id": "1170-3.5",
+    "num": "3.5",
+    "title": "Eigenschaften von Verstärkern"
+   },
+   {
+    "id": "1170-3.7",
+    "num": "3.7",
+    "title": "Anwendung der operanten Konditionierung"
+   },
+   {
+    "id": "1170-4",
+    "num": "4",
+    "title": "Kognition und Lernen"
+   },
+   {
+    "id": "1170-4.1",
+    "num": "4.1",
+    "title": "Kognitionen im Rahmen der klassischen und operanten Konditionierung"
+   },
+   {
+    "id": "1170-4.2",
+    "num": "4.2",
+    "title": "Beobachtungslernen"
+   },
+   {
+    "id": "1170-4.3",
+    "num": "4.3",
+    "title": "Vorhersage von Verhalten auf der Basis von Beobachtungen"
+   },
+   {
+    "id": "1170-4.3.1",
+    "num": "4.3.1",
+    "title": "Echte Imitation (\"True imitation\")"
+   },
+   {
+    "id": "1170-4.3.2",
+    "num": "4.3.2",
+    "title": "Nacheifern (\"Emulation\")"
+   },
+   {
+    "id": "1170-4.4",
+    "num": "4.4",
+    "title": "Scheinbare Imitation"
+   },
+   {
+    "id": "1170-4.5",
+    "num": "4.5",
+    "title": "Anwendung des Modellernens"
+   },
+   {
+    "id": "1170-5",
+    "num": "5",
+    "title": "Gedächtnis"
+   },
+   {
+    "id": "1170-5.1",
+    "num": "5.1",
+    "title": "Gedächtnis und Lernen"
+   },
+   {
+    "id": "1170-5.2",
+    "num": "5.2",
+    "title": "Explizites-deklaratives versus implizites-prozedurales Gedächtnis"
+   },
+   {
+    "id": "1170-5.3",
+    "num": "5.3",
+    "title": "Modelle des Gedächtnisses"
+   },
+   {
+    "id": "1170-5.3.1",
+    "num": "5.3.1",
+    "title": "Modell nach Atkinson und Shiffrin (1968)"
+   },
+   {
+    "id": "1170-5.3.2",
+    "num": "5.3.2",
+    "title": "Modell nach Baddeley (1994)"
+   },
+   {
+    "id": "1170-6",
+    "num": "6",
+    "title": "Kurzzeitspeicher"
+   },
+   {
+    "id": "1170-6.1",
+    "num": "6.1",
+    "title": "Sensorisches Gedächtnis"
+   },
+   {
+    "id": "1170-6.2",
+    "num": "6.2",
+    "title": "Kurzzeitgedächtnis"
+   },
+   {
+    "id": "1170-6.2.1",
+    "num": "6.2.1",
+    "title": "Begrenzte Kapazität des Kurzzeitgedächtnisses"
+   },
+   {
+    "id": "1170-6.2.2",
+    "num": "6.2.2",
+    "title": "Strategien der Verarbeitung"
+   },
+   {
+    "id": "1170-6.2.3",
+    "num": "6.2.3",
+    "title": "Ebenen der Verarbeitung"
+   },
+   {
+    "id": "1170-6.3",
+    "num": "6.3",
+    "title": "Arbeitsgedächtnis"
+   },
+   {
+    "id": "1170-6.3.1",
+    "num": "6.3.1",
+    "title": "Die phonologische Schleife"
+   },
+   {
+    "id": "1170-6.3.2",
+    "num": "6.3.2",
+    "title": "Der visuell-räumliche Notizblock"
+   },
+   {
+    "id": "1170-6.3.3",
+    "num": "6.3.3",
+    "title": "Die zentrale Exekutive"
+   },
+   {
+    "id": "1170-7",
+    "num": "7",
+    "title": "Langzeitspeicher"
+   },
+   {
+    "id": "1170-7.1",
+    "num": "7.1",
+    "title": "Speicherung"
+   },
+   {
+    "id": "1170-7.2",
+    "num": "7.2",
+    "title": "Abrufen"
+   },
+   {
+    "id": "1170-7.2.1",
+    "num": "7.2.1",
+    "title": "Voraktivierungseffekte (Priming)"
+   },
+   {
+    "id": "1170-7.2.2",
+    "num": "7.2.2",
+    "title": "Kontexteffekte"
+   },
+   {
+    "id": "1170-7.2.3",
+    "num": "7.2.3",
+    "title": "Effekte der emotionalen Verfassung"
+   },
+   {
+    "id": "1170-7.2.4",
+    "num": "7.2.4",
+    "title": "Positionseffekte"
+   },
+   {
+    "id": "1170-7.3",
+    "num": "7.3",
+    "title": "Vergessen"
+   },
+   {
+    "id": "1170-7.3.1",
+    "num": "7.3.1",
+    "title": "Scheitern der Enkodierung"
+   },
+   {
+    "id": "1170-7.3.2",
+    "num": "7.3.2",
+    "title": "Verfall"
+   },
+   {
+    "id": "1170-7.3.3",
+    "num": "7.3.3",
+    "title": "Interferenz"
+   },
+   {
+    "id": "1170-7.3.4",
+    "num": "7.3.4",
+    "title": "Misslingen des Abrufs"
+   },
+   {
+    "id": "1170-7.3.5",
+    "num": "7.3.5",
+    "title": "Motiviertes Vergessen"
+   },
+   {
+    "id": "1170-7.4",
+    "num": "7.4",
+    "title": "Techniken zur Steigerung der Gedächtnisleistung"
+   },
+   {
+    "id": "1170-7.5",
+    "num": "7.5",
+    "title": "Gedächtnisorganisation"
+   },
+   {
+    "id": "1170-7.5.1",
+    "num": "7.5.1",
+    "title": "Konzepte"
+   },
+   {
+    "id": "1170-7.5.2",
+    "num": "7.5.2",
+    "title": "Schemata"
+   },
+   {
+    "id": "1170-7.6",
+    "num": "7.6",
+    "title": "Gedächtnisfehler und -störungen"
+   },
+   {
+    "id": "1170-7.6.1",
+    "num": "7.6.1",
+    "title": "Gedächtnisfehler"
+   },
+   {
+    "id": "1170-7.6.2",
+    "num": "7.6.2",
+    "title": "Gedächtnisstörungen"
+   },
+   {
+    "id": "1170-8",
+    "num": "8",
+    "title": "Biologische Grundlagen von Lernen und Gedächtnis"
+   },
+   {
+    "id": "1170-8.1",
+    "num": "8.1",
+    "title": "Lernen"
+   },
+   {
+    "id": "1170-8.1.1",
+    "num": "8.1.1",
+    "title": "Neuronen und neuronale Aktivität"
+   },
+   {
+    "id": "1170-8.1.2",
+    "num": "8.1.2",
+    "title": "Biologische Grundlage der klassischen Konditionierung"
+   },
+   {
+    "id": "1170-8.1.3",
+    "num": "8.1.3",
+    "title": "Biologische Grundlage der operanten Konditionierung"
+   },
+   {
+    "id": "1170-8.1.4",
+    "num": "8.1.4",
+    "title": "Biologische Grundlage des Modelllernens"
+   },
+   {
+    "id": "1170-8.2",
+    "num": "8.2",
+    "title": "Gedächtnis"
+   },
+   {
+    "id": "1170-8.2.1",
+    "num": "8.2.1",
+    "title": "Engramme"
+   },
+   {
+    "id": "1170-8.2.2",
+    "num": "8.2.2",
+    "title": "Biologische Grundlage des expliziten Gedächtnisses"
+   },
+   {
+    "id": "1170-8.2.3",
+    "num": "8.2.3",
+    "title": "Biologische Grundlage des impliziten Gedächtnisses"
+   },
+   {
+    "id": "1170-8.2.4",
+    "num": "8.2.4",
+    "title": "Biologische Grundlage emotionaler Verarbeitung von Erinnerungen"
+   }
+  ]
+ },
+ {
+  "code": "1171",
+  "module": "BAPSY1",
+  "title": "Wahrnehmung",
+  "sections": [
+   {
+    "id": "1171-1",
+    "num": "1",
+    "title": "Physiologische Grundlagen von Erleben und Verhalten"
+   },
+   {
+    "id": "1171-1.1",
+    "num": "1.1",
+    "title": "Signalübertragung im Nervensystem"
+   },
+   {
+    "id": "1171-1.1.1",
+    "num": "1.1.1",
+    "title": "Das Neuron"
+   },
+   {
+    "id": "1171-1.1.2",
+    "num": "1.1.2",
+    "title": "Erregungsübertragung an Synapsen"
+   },
+   {
+    "id": "1171-1.1.3",
+    "num": "1.1.3",
+    "title": "Potenziale und Membrane"
+   },
+   {
+    "id": "1171-1.1.4",
+    "num": "1.1.4",
+    "title": "Das Nervensystem"
+   },
+   {
+    "id": "1171-1.2",
+    "num": "1.2",
+    "title": "Das Gehirn"
+   },
+   {
+    "id": "1171-1.2.1",
+    "num": "1.2.1",
+    "title": "Ältere Gehirnstrukturen"
+   },
+   {
+    "id": "1171-1.2.2",
+    "num": "1.2.2",
+    "title": "Neuere Gehirnstrukturen"
+   },
+   {
+    "id": "1171-1.2.3",
+    "num": "1.2.3",
+    "title": "Untersuchung des Gehirns"
+   },
+   {
+    "id": "1171-1.2.4",
+    "num": "1.2.4",
+    "title": "Hemisphärenlateralisation"
+   },
+   {
+    "id": "1171-1.2.5",
+    "num": "1.2.5",
+    "title": "Neuroendokrines System"
+   },
+   {
+    "id": "1171-2",
+    "num": "2",
+    "title": "Wahrnehmung - Eine Einführung"
+   },
+   {
+    "id": "1171-2.1",
+    "num": "2.1",
+    "title": "Wahrnehmungsprozess"
+   },
+   {
+    "id": "1171-2.2",
+    "num": "2.2",
+    "title": "Wahrnehmungsinterpretation und Wahrnehmungstäuschung"
+   },
+   {
+    "id": "1171-2.3",
+    "num": "2.3",
+    "title": "Untersuchung und Messung der Wahrnehmung"
+   },
+   {
+    "id": "1171-2.3.1",
+    "num": "2.3.1",
+    "title": "Absolutschwelle"
+   },
+   {
+    "id": "1171-2.3.2",
+    "num": "2.3.2",
+    "title": "Unterschiedsschwelle"
+   },
+   {
+    "id": "1171-2.3.3",
+    "num": "2.3.3",
+    "title": "Sensorische Adaptation"
+   },
+   {
+    "id": "1171-2.3.4",
+    "num": "2.3.4",
+    "title": "Signalentdeckungstheorie"
+   },
+   {
+    "id": "1171-3",
+    "num": "3",
+    "title": "Visuelle Wahrnehmung"
+   },
+   {
+    "id": "1171-3.1",
+    "num": "3.1",
+    "title": "Licht"
+   },
+   {
+    "id": "1171-3.2",
+    "num": "3.2",
+    "title": "Das Auge"
+   },
+   {
+    "id": "1171-3.3",
+    "num": "3.3",
+    "title": "Visuelle Informationsverarbeitung"
+   },
+   {
+    "id": "1171-3.4",
+    "num": "3.4",
+    "title": "Wahrnehmung von Farben"
+   },
+   {
+    "id": "1171-3.5",
+    "num": "3.5",
+    "title": "Visuelle Wahrnehmungsorganisation"
+   },
+   {
+    "id": "1171-3.5.1",
+    "num": "3.5.1",
+    "title": "Formwahrnehmung"
+   },
+   {
+    "id": "1171-3.5.2",
+    "num": "3.5.2",
+    "title": "Tiefenwahrnehmung"
+   },
+   {
+    "id": "1171-3.5.3",
+    "num": "3.5.3",
+    "title": "Bewegungswahrnehmung"
+   },
+   {
+    "id": "1171-3.5.4",
+    "num": "3.5.4",
+    "title": "Wahrnehmungskonstanz"
+   },
+   {
+    "id": "1171-3.6",
+    "num": "3.6",
+    "title": "Visuelle Wahrnehmungstäuschungen"
+   },
+   {
+    "id": "1171-4",
+    "num": "4",
+    "title": "Auditive Wahrnehmung"
+   },
+   {
+    "id": "1171-4.1",
+    "num": "4.1",
+    "title": "Schall"
+   },
+   {
+    "id": "1171-4.2",
+    "num": "4.2",
+    "title": "Das Ohr"
+   },
+   {
+    "id": "1171-4.2.1",
+    "num": "4.2.1",
+    "title": "Außenohr"
+   },
+   {
+    "id": "1171-4.2.2",
+    "num": "4.2.2",
+    "title": "Mittelohr"
+   },
+   {
+    "id": "1171-4.2.3",
+    "num": "4.2.3",
+    "title": "Innenohr"
+   },
+   {
+    "id": "1171-4.3",
+    "num": "4.3",
+    "title": "Auditive Informationsverarbeitung"
+   },
+   {
+    "id": "1171-4.4",
+    "num": "4.4",
+    "title": "Theorien des Hörens"
+   },
+   {
+    "id": "1171-4.5",
+    "num": "4.5",
+    "title": "Auditive Lokalisierung"
+   },
+   {
+    "id": "1171-4.6",
+    "num": "4.6",
+    "title": "Auditive Wahrnehmungsorganisation"
+   },
+   {
+    "id": "1171-4.7",
+    "num": "4.7",
+    "title": "Hören und Sehen"
+   },
+   {
+    "id": "1171-5",
+    "num": "5",
+    "title": "Weitere Formen der Wahrnehmung"
+   },
+   {
+    "id": "1171-5.1",
+    "num": "5.1",
+    "title": "Olfaktorische und gustatorische Wahrnehmung"
+   },
+   {
+    "id": "1171-5.1.1",
+    "num": "5.1.1",
+    "title": "Das olfaktorische System"
+   },
+   {
+    "id": "1171-5.1.2",
+    "num": "5.1.2",
+    "title": "Das gustatorische System"
+   },
+   {
+    "id": "1171-5.2",
+    "num": "5.2",
+    "title": "Somatosensorische Wahrnehmung"
+   },
+   {
+    "id": "1171-5.2.1",
+    "num": "5.2.1",
+    "title": "Tast- und Temperaturwahrnehmung"
+   },
+   {
+    "id": "1171-5.2.2",
+    "num": "5.2.2",
+    "title": "Schmerzwahrnehmung"
+   },
+   {
+    "id": "1171-6",
+    "num": "6",
+    "title": "Aufmerksamkeit"
+   },
+   {
+    "id": "1171-6.1",
+    "num": "6.1",
+    "title": "Auditive Aufmerksamkeit"
+   },
+   {
+    "id": "1171-6.1.1",
+    "num": "6.1.1",
+    "title": "Filtertheorie der Aufmerksamkeit"
+   },
+   {
+    "id": "1171-6.1.2",
+    "num": "6.1.2",
+    "title": "Attenuationstheorie der Aufmerksamkeit"
+   },
+   {
+    "id": "1171-6.1.3",
+    "num": "6.1.3",
+    "title": "Theorie der späten Auswahl"
+   },
+   {
+    "id": "1171-6.2",
+    "num": "6.2",
+    "title": "Visuelle Aufmerksamkeit"
+   },
+   {
+    "id": "1171-6.2.1",
+    "num": "6.2.1",
+    "title": "Aufmerksamkeitssteuerung"
+   },
+   {
+    "id": "1171-6.2.2",
+    "num": "6.2.2",
+    "title": "Unaufmerksamkeit und Ablenkung"
+   },
+   {
+    "id": "1171-6.2.3",
+    "num": "6.2.3",
+    "title": "Einfluss der Aufmerksamkeit"
+   },
+   {
+    "id": "1171-6.2.4",
+    "num": "6.2.4",
+    "title": "Aufmerksamkeitsstörungen"
+   },
+   {
+    "id": "1171-6.3",
+    "num": "6.3",
+    "title": "Aufmerksamkeit und Leistung"
+   },
+   {
+    "id": "1171-6.3.1",
+    "num": "6.3.1",
+    "title": "Befunde und Theorien zur Mehrfachaufgabenperformanz"
+   },
+   {
+    "id": "1171-6.3.2",
+    "num": "6.3.2",
+    "title": "Determinanten der Mehrfachaufgabenperformanz"
+   },
+   {
+    "id": "1171-6.3.3",
+    "num": "6.3.3",
+    "title": "Automatische Prozesse"
+   }
+  ]
+ }
+]

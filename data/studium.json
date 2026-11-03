@@ -1,0 +1,1556 @@
+{
+ "MODS": {
+  "BEPSYC": {
+   "name": "Einführung in die Psychologie",
+   "short": "Einführung",
+   "exam": "Online-Test",
+   "prof": "Prof. Dr. Manfred Mühlfelder",
+   "books": [
+    "1253",
+    "1283"
+   ],
+   "c": "#2f4bd1"
+  },
+  "BWISAR": {
+   "name": "Wissenschaftliches Arbeiten",
+   "short": "Wiss. Arbeiten",
+   "exam": "Online-Test",
+   "prof": "Prof. Dr. Joachim Merk",
+   "books": [
+    "1133",
+    "1121"
+   ],
+   "c": "#0f8a8a"
+  },
+  "BSOPSY": {
+   "name": "Sozialpsychologie",
+   "short": "Sozialpsych.",
+   "exam": "Hausarbeit",
+   "prof": "Prof. Dr. Sarah Seidl",
+   "books": [
+    "0638"
+   ],
+   "c": "#c8742a"
+  },
+  "BPERPS": {
+   "name": "Persönlichkeitspsychologie",
+   "short": "Persönlichkeit",
+   "exam": "Einsendeaufgabe",
+   "prof": "Stephanie Rueß",
+   "books": [
+    "1105",
+    "1106"
+   ],
+   "c": "#8a3fb0"
+  },
+  "BAPSY1": {
+   "name": "Allgemeine Psychologie I",
+   "short": "Allg. Psych I",
+   "exam": "Hausarbeit oder Poster",
+   "prof": "Alexander Wendland",
+   "books": [
+    "1170",
+    "1171"
+   ],
+   "c": "#b4372f"
+  }
+ },
+ "UNITS": {
+  "BEPSYC": [
+   "Geschichte der Psychologie",
+   "Psychotechnik und Behaviorismus",
+   "Die kognitive Wende",
+   "Psychologie zu Beginn des 21. Jahrhunderts",
+   "Berufsfelder der Psychologie",
+   "Empirische Sozialforschung",
+   "Das psychologische Experiment",
+   "Quasi-Experimente und Feldstudien",
+   "Systematische Verhaltensbeobachtung",
+   "Simulation und künstliche Intelligenz",
+   "Allgemeine Psychologie",
+   "Einführung in die Persönlichkeitspsychologie",
+   "Sozialpsychologie",
+   "Grundlagen der Entwicklung",
+   "Biologische Psychologie"
+  ],
+  "BWISAR": [
+   "Wissenschaft – was ist das?",
+   "Literaturrecherche und wissenschaftliches Lesen",
+   "Zitieren in wissenschaftlichen Arbeiten",
+   "Arbeiten mit Literaturverwaltungsprogrammen",
+   "Formatieren, Gliedern und Strukturieren",
+   "Schreiben – Prozess und Stil",
+   "Schreiben – Überarbeitung und Feedback",
+   "Schreiben mit KI",
+   "Vermeidung von Plagiaten",
+   "Prüfungsformate im Überblick",
+   "Problemstellung und Zielsetzung",
+   "Theorieteil und Hypothesenbildung",
+   "Operationalisieren und dimensional analysieren",
+   "Forschungsmethoden im Überblick",
+   "Auswertung, Ergebnisdarstellung und Diskussion"
+  ],
+  "BSOPSY": [
+   "Was ist Sozialpsychologie",
+   "Die Macht der sozialen Interpretation",
+   "Die Macht der Situation",
+   "Sozialpsychologie im Alltag",
+   "Ethische Fragen und aktuelle Herausforderungen",
+   "Selbstkonzept und Selbstdarstellung",
+   "Kognitive Dissonanz",
+   "Soziale Wahrnehmung",
+   "Social Cognition",
+   "Einstellungen",
+   "Aggression",
+   "Prosoziales Verhalten",
+   "Individuelles Verhalten im Gruppenkontext",
+   "Gruppenkonflikte und Kooperation",
+   "Gruppenentscheidungen"
+  ],
+  "BPERPS": [
+   "Einführung in die Persönlichkeitspsychologie",
+   "Zentrale Begriffe und Konzepte",
+   "Paradigmen der Persönlichkeitspsychologie",
+   "Persönlichkeitstypen",
+   "Persönlichkeitseigenschaften",
+   "Intelligenz",
+   "Emotionale Intelligenz und Kreativität",
+   "Emotionsbezogene Persönlichkeitsmerkmale",
+   "Selbstkonzept und Selbstdarstellung",
+   "Messung von Persönlichkeitsmerkmalen",
+   "Persönlichkeit und Krankheitsprävention",
+   "Persönlichkeit und klinische Psychologie",
+   "Persönlichkeit und Personalauswahl",
+   "Persönlichkeit und Personalentwicklung",
+   "Persönlichkeit im Alltag und Beruf"
+  ],
+  "BAPSY1": [
+   "Allgemeine Psychologie",
+   "Grundlagen des Lernens",
+   "Klassische Konditionierung",
+   "Operante Konditionierung",
+   "Kognitionen und Lernen",
+   "Wahrnehmung – eine Einführung",
+   "Formen der Wahrnehmung",
+   "Auditive, olfaktorische, gustatorische, somatosensorische Wahrnehmung",
+   "Visuelle und auditive Aufmerksamkeit",
+   "Aufmerksamkeit und Leistung",
+   "Gedächtnis: Grundlagen",
+   "Sensorisches Gedächtnis, Kurzzeit- und Arbeitsgedächtnis",
+   "Langzeitgedächtnis: Speicherung und Abruf",
+   "Gedächtnisorganisation, Vergessen, Gedächtnisfehler",
+   "Physiologische Grundlagen von Erleben und Verhalten"
+  ]
+ },
+ "MAP_SECTIONS": {
+  "BEPSYC": [
+   [
+    "1253-1.1",
+    "1253-1.2",
+    "1253-1.3",
+    "1253-1.4"
+   ],
+   [
+    "1253-1.4"
+   ],
+   [
+    "1253-1.4"
+   ],
+   [
+    "1253-1.5",
+    "1253-1.6",
+    "1253-5"
+   ],
+   [
+    "1253-4"
+   ],
+   [
+    "1253-3.1",
+    "1253-3.2",
+    "1253-3.3",
+    "1253-3.4"
+   ],
+   [
+    "1253-3.6"
+   ],
+   [
+    "1253-3.6",
+    "1253-3.7"
+   ],
+   [
+    "1253-3.5"
+   ],
+   [
+    "1253-3.8"
+   ],
+   [
+    "1253-2.1"
+   ],
+   [
+    "1253-2.2"
+   ],
+   [
+    "1253-2.4"
+   ],
+   [
+    "1253-2.3"
+   ],
+   [
+    "1253-2.5"
+   ]
+  ],
+  "BWISAR": [
+   [
+    "1133-1",
+    "1121-1"
+   ],
+   [
+    "1133-2"
+   ],
+   [
+    "1133-3"
+   ],
+   [
+    "1133-4"
+   ],
+   [
+    "1133-5"
+   ],
+   [
+    "1133-6.1",
+    "1133-6.2",
+    "1133-6.3"
+   ],
+   [
+    "1133-6.4",
+    "1133-6.5"
+   ],
+   [
+    "1133-7"
+   ],
+   [
+    "1133-3.2",
+    "1133-3.3",
+    "1133-1.2.1"
+   ],
+   [
+    "1133-6.1"
+   ],
+   [
+    "1121-3.2"
+   ],
+   [
+    "1121-3.3",
+    "1121-2"
+   ],
+   [
+    "1121-3.5"
+   ],
+   [
+    "1121-3.6",
+    "1121-4"
+   ],
+   [
+    "1121-3.7",
+    "1121-3.8",
+    "1121-3.9",
+    "1121-5"
+   ]
+  ],
+  "BSOPSY": [
+   [
+    "0638-1"
+   ],
+   [
+    "0638-2"
+   ],
+   [
+    "0638-3"
+   ],
+   [
+    "0638-4"
+   ],
+   [
+    "0638-5"
+   ],
+   [
+    "0638-6"
+   ],
+   [
+    "0638-7"
+   ],
+   [
+    "0638-8"
+   ],
+   [
+    "0638-9"
+   ],
+   [
+    "0638-10"
+   ],
+   [
+    "0638-11"
+   ],
+   [
+    "0638-12"
+   ],
+   [
+    "0638-13"
+   ],
+   [
+    "0638-14"
+   ],
+   [
+    "0638-15"
+   ]
+  ],
+  "BPERPS": [
+   [
+    "1105-1"
+   ],
+   [
+    "1105-1.2",
+    "1105-1.3"
+   ],
+   [
+    "1105-3"
+   ],
+   [
+    "1105-2.2"
+   ],
+   [
+    "1105-2.3"
+   ],
+   [
+    "1105-4.2"
+   ],
+   [
+    "1105-4.3",
+    "1105-4.4"
+   ],
+   [
+    "1105-5"
+   ],
+   [
+    "1106-1"
+   ],
+   [
+    "1106-6"
+   ],
+   [
+    "1106-2"
+   ],
+   [
+    "1106-3"
+   ],
+   [
+    "1106-4"
+   ],
+   [
+    "1106-5"
+   ],
+   [
+    "1106-1.6",
+    "1106-5.3"
+   ]
+  ],
+  "BAPSY1": [
+   [
+    "1170-1"
+   ],
+   [
+    "1170-1"
+   ],
+   [
+    "1170-2"
+   ],
+   [
+    "1170-3"
+   ],
+   [
+    "1170-4"
+   ],
+   [
+    "1171-2"
+   ],
+   [
+    "1171-3",
+    "1171-4"
+   ],
+   [
+    "1171-4",
+    "1171-5"
+   ],
+   [
+    "1171-6.1",
+    "1171-6.2"
+   ],
+   [
+    "1171-6.3"
+   ],
+   [
+    "1170-5"
+   ],
+   [
+    "1170-6"
+   ],
+   [
+    "1170-7"
+   ],
+   [
+    "1170-7"
+   ],
+   [
+    "1171-1"
+   ]
+  ]
+ },
+ "QUEUE": [
+  {
+   "id": "BEPSYC-U1",
+   "mod": "BEPSYC",
+   "kind": "unit",
+   "i": 1,
+   "title": "U1 Geschichte der Psychologie",
+   "slots": 1
+  },
+  {
+   "id": "BEPSYC-U2",
+   "mod": "BEPSYC",
+   "kind": "unit",
+   "i": 2,
+   "title": "U2 Psychotechnik und Behaviorismus",
+   "slots": 1
+  },
+  {
+   "id": "BWISAR-U1",
+   "mod": "BWISAR",
+   "kind": "unit",
+   "i": 1,
+   "title": "U1 Wissenschaft – was ist das?",
+   "slots": 1
+  },
+  {
+   "id": "BEPSYC-U3",
+   "mod": "BEPSYC",
+   "kind": "unit",
+   "i": 3,
+   "title": "U3 Die kognitive Wende",
+   "slots": 1
+  },
+  {
+   "id": "BEPSYC-U4",
+   "mod": "BEPSYC",
+   "kind": "unit",
+   "i": 4,
+   "title": "U4 Psychologie zu Beginn des 21. Jahrhunderts",
+   "slots": 1
+  },
+  {
+   "id": "BWISAR-U2",
+   "mod": "BWISAR",
+   "kind": "unit",
+   "i": 2,
+   "title": "U2 Literaturrecherche und wissenschaftliches Lesen",
+   "slots": 1
+  },
+  {
+   "id": "BEPSYC-U5",
+   "mod": "BEPSYC",
+   "kind": "unit",
+   "i": 5,
+   "title": "U5 Berufsfelder der Psychologie",
+   "slots": 1
+  },
+  {
+   "id": "BWISAR-U3",
+   "mod": "BWISAR",
+   "kind": "unit",
+   "i": 3,
+   "title": "U3 Zitieren in wissenschaftlichen Arbeiten",
+   "slots": 1
+  },
+  {
+   "id": "BEPSYC-U6",
+   "mod": "BEPSYC",
+   "kind": "unit",
+   "i": 6,
+   "title": "U6 Empirische Sozialforschung",
+   "slots": 1
+  },
+  {
+   "id": "BEPSYC-U7",
+   "mod": "BEPSYC",
+   "kind": "unit",
+   "i": 7,
+   "title": "U7 Das psychologische Experiment",
+   "slots": 1
+  },
+  {
+   "id": "BWISAR-U4",
+   "mod": "BWISAR",
+   "kind": "unit",
+   "i": 4,
+   "title": "U4 Arbeiten mit Literaturverwaltungsprogrammen",
+   "slots": 1
+  },
+  {
+   "id": "BEPSYC-U8",
+   "mod": "BEPSYC",
+   "kind": "unit",
+   "i": 8,
+   "title": "U8 Quasi-Experimente und Feldstudien",
+   "slots": 1
+  },
+  {
+   "id": "BEPSYC-U9",
+   "mod": "BEPSYC",
+   "kind": "unit",
+   "i": 9,
+   "title": "U9 Systematische Verhaltensbeobachtung",
+   "slots": 1
+  },
+  {
+   "id": "BWISAR-U5",
+   "mod": "BWISAR",
+   "kind": "unit",
+   "i": 5,
+   "title": "U5 Formatieren, Gliedern und Strukturieren",
+   "slots": 1
+  },
+  {
+   "id": "BEPSYC-U10",
+   "mod": "BEPSYC",
+   "kind": "unit",
+   "i": 10,
+   "title": "U10 Simulation und künstliche Intelligenz",
+   "slots": 1
+  },
+  {
+   "id": "BWISAR-U6",
+   "mod": "BWISAR",
+   "kind": "unit",
+   "i": 6,
+   "title": "U6 Schreiben – Prozess und Stil",
+   "slots": 1
+  },
+  {
+   "id": "BWISAR-U7",
+   "mod": "BWISAR",
+   "kind": "unit",
+   "i": 7,
+   "title": "U7 Schreiben – Überarbeitung und Feedback",
+   "slots": 1
+  },
+  {
+   "id": "BEPSYC-U11",
+   "mod": "BEPSYC",
+   "kind": "unit",
+   "i": 11,
+   "title": "U11 Allgemeine Psychologie",
+   "slots": 1
+  },
+  {
+   "id": "BEPSYC-U12",
+   "mod": "BEPSYC",
+   "kind": "unit",
+   "i": 12,
+   "title": "U12 Einführung in die Persönlichkeitspsychologie",
+   "slots": 1
+  },
+  {
+   "id": "BWISAR-U8",
+   "mod": "BWISAR",
+   "kind": "unit",
+   "i": 8,
+   "title": "U8 Schreiben mit KI",
+   "slots": 1
+  },
+  {
+   "id": "BEPSYC-U13",
+   "mod": "BEPSYC",
+   "kind": "unit",
+   "i": 13,
+   "title": "U13 Sozialpsychologie",
+   "slots": 1
+  },
+  {
+   "id": "BEPSYC-U14",
+   "mod": "BEPSYC",
+   "kind": "unit",
+   "i": 14,
+   "title": "U14 Grundlagen der Entwicklung",
+   "slots": 1
+  },
+  {
+   "id": "BWISAR-U9",
+   "mod": "BWISAR",
+   "kind": "unit",
+   "i": 9,
+   "title": "U9 Vermeidung von Plagiaten",
+   "slots": 1
+  },
+  {
+   "id": "BEPSYC-U15",
+   "mod": "BEPSYC",
+   "kind": "unit",
+   "i": 15,
+   "title": "U15 Biologische Psychologie",
+   "slots": 1
+  },
+  {
+   "id": "BWISAR-U10",
+   "mod": "BWISAR",
+   "kind": "unit",
+   "i": 10,
+   "title": "U10 Prüfungsformate im Überblick",
+   "slots": 1
+  },
+  {
+   "id": "BEPSYC-UEB",
+   "mod": "BEPSYC",
+   "kind": "extra",
+   "title": "Übungstest Einführung + Lücken wiederholen",
+   "slots": 2
+  },
+  {
+   "id": "BEPSYC-WDH",
+   "mod": "BEPSYC",
+   "kind": "extra",
+   "title": "Wiederholung: Karteikarten Einführung",
+   "slots": 1
+  },
+  {
+   "id": "BEPSYC-TEST",
+   "mod": "BEPSYC",
+   "kind": "extra",
+   "title": "Online-Test Einführung in die Psychologie",
+   "slots": 2
+  },
+  {
+   "id": "BWISAR-U11",
+   "mod": "BWISAR",
+   "kind": "unit",
+   "i": 11,
+   "title": "U11 Problemstellung und Zielsetzung",
+   "slots": 1
+  },
+  {
+   "id": "BWISAR-U12",
+   "mod": "BWISAR",
+   "kind": "unit",
+   "i": 12,
+   "title": "U12 Theorieteil und Hypothesenbildung",
+   "slots": 1
+  },
+  {
+   "id": "BWISAR-U13",
+   "mod": "BWISAR",
+   "kind": "unit",
+   "i": 13,
+   "title": "U13 Operationalisieren und dimensional analysieren",
+   "slots": 1
+  },
+  {
+   "id": "BWISAR-U14",
+   "mod": "BWISAR",
+   "kind": "unit",
+   "i": 14,
+   "title": "U14 Forschungsmethoden im Überblick",
+   "slots": 1
+  },
+  {
+   "id": "BWISAR-U15",
+   "mod": "BWISAR",
+   "kind": "unit",
+   "i": 15,
+   "title": "U15 Auswertung, Ergebnisdarstellung und Diskussion",
+   "slots": 1
+  },
+  {
+   "id": "BWISAR-UEB",
+   "mod": "BWISAR",
+   "kind": "extra",
+   "title": "Übungstest Wiss. Arbeiten + Lücken",
+   "slots": 2
+  },
+  {
+   "id": "BWISAR-TEST",
+   "mod": "BWISAR",
+   "kind": "extra",
+   "title": "Online-Test Wissenschaftliches Arbeiten",
+   "slots": 2
+  },
+  {
+   "id": "BSOPSY-U1",
+   "mod": "BSOPSY",
+   "kind": "unit",
+   "i": 1,
+   "title": "U1 Was ist Sozialpsychologie",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-U2",
+   "mod": "BSOPSY",
+   "kind": "unit",
+   "i": 2,
+   "title": "U2 Die Macht der sozialen Interpretation",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-U3",
+   "mod": "BSOPSY",
+   "kind": "unit",
+   "i": 3,
+   "title": "U3 Die Macht der Situation",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-U4",
+   "mod": "BSOPSY",
+   "kind": "unit",
+   "i": 4,
+   "title": "U4 Sozialpsychologie im Alltag",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-U5",
+   "mod": "BSOPSY",
+   "kind": "unit",
+   "i": 5,
+   "title": "U5 Ethische Fragen und aktuelle Herausforderungen",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-U6",
+   "mod": "BSOPSY",
+   "kind": "unit",
+   "i": 6,
+   "title": "U6 Selbstkonzept und Selbstdarstellung",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-U7",
+   "mod": "BSOPSY",
+   "kind": "unit",
+   "i": 7,
+   "title": "U7 Kognitive Dissonanz",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-U8",
+   "mod": "BSOPSY",
+   "kind": "unit",
+   "i": 8,
+   "title": "U8 Soziale Wahrnehmung",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-U9",
+   "mod": "BSOPSY",
+   "kind": "unit",
+   "i": 9,
+   "title": "U9 Social Cognition",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-U10",
+   "mod": "BSOPSY",
+   "kind": "unit",
+   "i": 10,
+   "title": "U10 Einstellungen",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-U11",
+   "mod": "BSOPSY",
+   "kind": "unit",
+   "i": 11,
+   "title": "U11 Aggression",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-U12",
+   "mod": "BSOPSY",
+   "kind": "unit",
+   "i": 12,
+   "title": "U12 Prosoziales Verhalten",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-U13",
+   "mod": "BSOPSY",
+   "kind": "unit",
+   "i": 13,
+   "title": "U13 Individuelles Verhalten im Gruppenkontext",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-U14",
+   "mod": "BSOPSY",
+   "kind": "unit",
+   "i": 14,
+   "title": "U14 Gruppenkonflikte und Kooperation",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-U15",
+   "mod": "BSOPSY",
+   "kind": "unit",
+   "i": 15,
+   "title": "U15 Gruppenentscheidungen",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-THEMA",
+   "mod": "BSOPSY",
+   "kind": "extra",
+   "title": "Hausarbeit Sozialpsych: Thema wählen + Gliederung",
+   "slots": 2
+  },
+  {
+   "id": "BSOPSY-HA1",
+   "mod": "BSOPSY",
+   "kind": "extra",
+   "title": "Hausarbeit Sozialpsych: Schreibblock 1/20",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-HA2",
+   "mod": "BSOPSY",
+   "kind": "extra",
+   "title": "Hausarbeit Sozialpsych: Schreibblock 2/20",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-HA3",
+   "mod": "BSOPSY",
+   "kind": "extra",
+   "title": "Hausarbeit Sozialpsych: Schreibblock 3/20",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-HA4",
+   "mod": "BSOPSY",
+   "kind": "extra",
+   "title": "Hausarbeit Sozialpsych: Schreibblock 4/20",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-HA5",
+   "mod": "BSOPSY",
+   "kind": "extra",
+   "title": "Hausarbeit Sozialpsych: Schreibblock 5/20",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-HA6",
+   "mod": "BSOPSY",
+   "kind": "extra",
+   "title": "Hausarbeit Sozialpsych: Schreibblock 6/20",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-HA7",
+   "mod": "BSOPSY",
+   "kind": "extra",
+   "title": "Hausarbeit Sozialpsych: Schreibblock 7/20",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-HA8",
+   "mod": "BSOPSY",
+   "kind": "extra",
+   "title": "Hausarbeit Sozialpsych: Schreibblock 8/20",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-HA9",
+   "mod": "BSOPSY",
+   "kind": "extra",
+   "title": "Hausarbeit Sozialpsych: Schreibblock 9/20",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-HA10",
+   "mod": "BSOPSY",
+   "kind": "extra",
+   "title": "Hausarbeit Sozialpsych: Schreibblock 10/20",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-HA11",
+   "mod": "BSOPSY",
+   "kind": "extra",
+   "title": "Hausarbeit Sozialpsych: Schreibblock 11/20",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-HA12",
+   "mod": "BSOPSY",
+   "kind": "extra",
+   "title": "Hausarbeit Sozialpsych: Schreibblock 12/20",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-HA13",
+   "mod": "BSOPSY",
+   "kind": "extra",
+   "title": "Hausarbeit Sozialpsych: Schreibblock 13/20",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-HA14",
+   "mod": "BSOPSY",
+   "kind": "extra",
+   "title": "Hausarbeit Sozialpsych: Schreibblock 14/20",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-HA15",
+   "mod": "BSOPSY",
+   "kind": "extra",
+   "title": "Hausarbeit Sozialpsych: Schreibblock 15/20",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-HA16",
+   "mod": "BSOPSY",
+   "kind": "extra",
+   "title": "Hausarbeit Sozialpsych: Schreibblock 16/20",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-HA17",
+   "mod": "BSOPSY",
+   "kind": "extra",
+   "title": "Hausarbeit Sozialpsych: Schreibblock 17/20",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-HA18",
+   "mod": "BSOPSY",
+   "kind": "extra",
+   "title": "Hausarbeit Sozialpsych: Schreibblock 18/20",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-HA19",
+   "mod": "BSOPSY",
+   "kind": "extra",
+   "title": "Hausarbeit Sozialpsych: Schreibblock 19/20",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-HA20",
+   "mod": "BSOPSY",
+   "kind": "extra",
+   "title": "Hausarbeit Sozialpsych: Schreibblock 20/20",
+   "slots": 1
+  },
+  {
+   "id": "BSOPSY-ABGABE",
+   "mod": "BSOPSY",
+   "kind": "extra",
+   "title": "Hausarbeit Sozialpsych: Endkontrolle + Abgabe",
+   "slots": 2
+  },
+  {
+   "id": "BPERPS-U1",
+   "mod": "BPERPS",
+   "kind": "unit",
+   "i": 1,
+   "title": "U1 Einführung in die Persönlichkeitspsychologie",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-U2",
+   "mod": "BPERPS",
+   "kind": "unit",
+   "i": 2,
+   "title": "U2 Zentrale Begriffe und Konzepte",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-U3",
+   "mod": "BPERPS",
+   "kind": "unit",
+   "i": 3,
+   "title": "U3 Paradigmen der Persönlichkeitspsychologie",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-U4",
+   "mod": "BPERPS",
+   "kind": "unit",
+   "i": 4,
+   "title": "U4 Persönlichkeitstypen",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-U5",
+   "mod": "BPERPS",
+   "kind": "unit",
+   "i": 5,
+   "title": "U5 Persönlichkeitseigenschaften",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-U6",
+   "mod": "BPERPS",
+   "kind": "unit",
+   "i": 6,
+   "title": "U6 Intelligenz",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-U7",
+   "mod": "BPERPS",
+   "kind": "unit",
+   "i": 7,
+   "title": "U7 Emotionale Intelligenz und Kreativität",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-U8",
+   "mod": "BPERPS",
+   "kind": "unit",
+   "i": 8,
+   "title": "U8 Emotionsbezogene Persönlichkeitsmerkmale",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-U9",
+   "mod": "BPERPS",
+   "kind": "unit",
+   "i": 9,
+   "title": "U9 Selbstkonzept und Selbstdarstellung",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-U10",
+   "mod": "BPERPS",
+   "kind": "unit",
+   "i": 10,
+   "title": "U10 Messung von Persönlichkeitsmerkmalen",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-U11",
+   "mod": "BPERPS",
+   "kind": "unit",
+   "i": 11,
+   "title": "U11 Persönlichkeit und Krankheitsprävention",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-U12",
+   "mod": "BPERPS",
+   "kind": "unit",
+   "i": 12,
+   "title": "U12 Persönlichkeit und klinische Psychologie",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-U13",
+   "mod": "BPERPS",
+   "kind": "unit",
+   "i": 13,
+   "title": "U13 Persönlichkeit und Personalauswahl",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-U14",
+   "mod": "BPERPS",
+   "kind": "unit",
+   "i": 14,
+   "title": "U14 Persönlichkeit und Personalentwicklung",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-U15",
+   "mod": "BPERPS",
+   "kind": "unit",
+   "i": 15,
+   "title": "U15 Persönlichkeit im Alltag und Beruf",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-THEMA",
+   "mod": "BPERPS",
+   "kind": "extra",
+   "title": "Einsendeaufgabe Persönlichkeit: Thema + Gliederung",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-EA1",
+   "mod": "BPERPS",
+   "kind": "extra",
+   "title": "Einsendeaufgabe Persönlichkeit: Block 1/10",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-EA2",
+   "mod": "BPERPS",
+   "kind": "extra",
+   "title": "Einsendeaufgabe Persönlichkeit: Block 2/10",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-EA3",
+   "mod": "BPERPS",
+   "kind": "extra",
+   "title": "Einsendeaufgabe Persönlichkeit: Block 3/10",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-EA4",
+   "mod": "BPERPS",
+   "kind": "extra",
+   "title": "Einsendeaufgabe Persönlichkeit: Block 4/10",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-EA5",
+   "mod": "BPERPS",
+   "kind": "extra",
+   "title": "Einsendeaufgabe Persönlichkeit: Block 5/10",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-EA6",
+   "mod": "BPERPS",
+   "kind": "extra",
+   "title": "Einsendeaufgabe Persönlichkeit: Block 6/10",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-EA7",
+   "mod": "BPERPS",
+   "kind": "extra",
+   "title": "Einsendeaufgabe Persönlichkeit: Block 7/10",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-EA8",
+   "mod": "BPERPS",
+   "kind": "extra",
+   "title": "Einsendeaufgabe Persönlichkeit: Block 8/10",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-EA9",
+   "mod": "BPERPS",
+   "kind": "extra",
+   "title": "Einsendeaufgabe Persönlichkeit: Block 9/10",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-EA10",
+   "mod": "BPERPS",
+   "kind": "extra",
+   "title": "Einsendeaufgabe Persönlichkeit: Block 10/10",
+   "slots": 1
+  },
+  {
+   "id": "BPERPS-ABGABE",
+   "mod": "BPERPS",
+   "kind": "extra",
+   "title": "Einsendeaufgabe Persönlichkeit: Abgabe",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-U1",
+   "mod": "BAPSY1",
+   "kind": "unit",
+   "i": 1,
+   "title": "U1 Allgemeine Psychologie",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-U2",
+   "mod": "BAPSY1",
+   "kind": "unit",
+   "i": 2,
+   "title": "U2 Grundlagen des Lernens",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-U3",
+   "mod": "BAPSY1",
+   "kind": "unit",
+   "i": 3,
+   "title": "U3 Klassische Konditionierung",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-U4",
+   "mod": "BAPSY1",
+   "kind": "unit",
+   "i": 4,
+   "title": "U4 Operante Konditionierung",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-U5",
+   "mod": "BAPSY1",
+   "kind": "unit",
+   "i": 5,
+   "title": "U5 Kognitionen und Lernen",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-U6",
+   "mod": "BAPSY1",
+   "kind": "unit",
+   "i": 6,
+   "title": "U6 Wahrnehmung – eine Einführung",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-U7",
+   "mod": "BAPSY1",
+   "kind": "unit",
+   "i": 7,
+   "title": "U7 Formen der Wahrnehmung",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-U8",
+   "mod": "BAPSY1",
+   "kind": "unit",
+   "i": 8,
+   "title": "U8 Auditive, olfaktorische, gustatorische, somatosensorische Wahrnehmung",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-U9",
+   "mod": "BAPSY1",
+   "kind": "unit",
+   "i": 9,
+   "title": "U9 Visuelle und auditive Aufmerksamkeit",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-U10",
+   "mod": "BAPSY1",
+   "kind": "unit",
+   "i": 10,
+   "title": "U10 Aufmerksamkeit und Leistung",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-U11",
+   "mod": "BAPSY1",
+   "kind": "unit",
+   "i": 11,
+   "title": "U11 Gedächtnis: Grundlagen",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-U12",
+   "mod": "BAPSY1",
+   "kind": "unit",
+   "i": 12,
+   "title": "U12 Sensorisches Gedächtnis, Kurzzeit- und Arbeitsgedächtnis",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-U13",
+   "mod": "BAPSY1",
+   "kind": "unit",
+   "i": 13,
+   "title": "U13 Langzeitgedächtnis: Speicherung und Abruf",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-U14",
+   "mod": "BAPSY1",
+   "kind": "unit",
+   "i": 14,
+   "title": "U14 Gedächtnisorganisation, Vergessen, Gedächtnisfehler",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-U15",
+   "mod": "BAPSY1",
+   "kind": "unit",
+   "i": 15,
+   "title": "U15 Physiologische Grundlagen von Erleben und Verhalten",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-THEMA",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Prüfungsform + Thema + Gliederung (Sprechstunde Wendland)",
+   "slots": 2
+  },
+  {
+   "id": "BAPSY1-HA1",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 1/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-HA2",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 2/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-HA3",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 3/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-HA4",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 4/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-HA5",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 5/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-HA6",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 6/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-HA7",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 7/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-HA8",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 8/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-HA9",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 9/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-HA10",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 10/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-HA11",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 11/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-HA12",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 12/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-HA13",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 13/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-HA14",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 14/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-HA15",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 15/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-HA16",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 16/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-HA17",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 17/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-HA18",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 18/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-HA19",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 19/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-HA20",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 20/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-HA21",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 21/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-HA22",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 22/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-HA23",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 23/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-HA24",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Schreibblock 24/24",
+   "slots": 1
+  },
+  {
+   "id": "BAPSY1-ABGABE",
+   "mod": "BAPSY1",
+   "kind": "extra",
+   "title": "Allg. Psych I: Endkontrolle + Abgabe",
+   "slots": 2
+  }
+ ],
+ "EVENTS": [
+  {
+   "d": "2026-11-04",
+   "t": "Optional: „Erfolgreich studieren“ 18–20 Uhr (online)"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "Optional: „Erfolgreich studieren“ 19–21 Uhr (online)"
+  },
+  {
+   "d": "2026-12-04",
+   "t": "Spätestens: Online-Test Einführung (zu Hause, ohne Anmeldung)"
+  },
+  {
+   "d": "2026-12-18",
+   "t": "Spätestens: Online-Test Wiss. Arbeiten"
+  },
+  {
+   "d": "2026-12-21",
+   "t": "Weihnachtswoche frei bis 27.12."
+  },
+  {
+   "d": "2027-01-31",
+   "t": "Themenkataloge 2026 laufen ab"
+  },
+  {
+   "d": "2027-02-01",
+   "t": "Online-Test Einführung schließt 05:00"
+  }
+ ],
+ "EXAMS": [
+  {
+   "id": "BEPSYC-TEST",
+   "mod": "BEPSYC",
+   "goal": "2026-12-04",
+   "rule": "30 Fragen, 60–120 Min., ohne Anmeldung · Fenster schließt 01.02.2027 (Alternative: Assessment-Test ab 01.01.2027)"
+  },
+  {
+   "id": "BWISAR-TEST",
+   "mod": "BWISAR",
+   "goal": "2026-12-18",
+   "rule": "30 Fragen, 60–120 Min., ohne Anmeldung"
+  },
+  {
+   "id": "BSOPSY-ABGABE",
+   "mod": "BSOPSY",
+   "goal": "2027-02-15",
+   "rule": "Themenkatalog 2027 (gültig bis 31.01.2028)"
+  },
+  {
+   "id": "BPERPS-ABGABE",
+   "mod": "BPERPS",
+   "goal": "2027-03-15",
+   "rule": "Katalog 2026 bis 31.01.2027, Katalog 2027 noch nicht online"
+  },
+  {
+   "id": "BAPSY1-ABGABE",
+   "mod": "BAPSY1",
+   "goal": "2027-04-30",
+   "rule": "20 Seiten oder Poster + 5 S. Konzept · ca. 4 Wochen Korrektur"
+  }
+ ],
+ "DAYTYPES": {
+  "kurz": {
+   "l": "Kurzer Arbeitstag",
+   "s": 2
+  },
+  "lang": {
+   "l": "Langer Arbeitstag",
+   "s": 1
+  },
+  "frei": {
+   "l": "Frei",
+   "s": 3
+  },
+  "we": {
+   "l": "Wochenende",
+   "s": 0
+  },
+  "off": {
+   "l": "Urlaub",
+   "s": 0
+  }
+ },
+ "COURSE_IDS": {
+  "BEPSYC": 11639,
+  "BWISAR": 11409,
+  "BSOPSY": 11601,
+  "BPERPS": 11654,
+  "BAPSY1": 11556
+ }
+}

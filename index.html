@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Lernraum</title>
+<meta name="description" content="Lukas geführter Lernraum fürs Psychologiestudium">
+<meta name="theme-color" content="#f6f5f1" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#16181d" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Lernraum">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">Lernraum</div>
+  <button class="timer-pill" id="timer-pill" type="button" hidden aria-label="Lern-Timer läuft, zu Heute wechseln">
+    <span class="pulse" aria-hidden="true"></span><span data-t="session">0:00</span>
+  </button>
+</header>
+
+<main id="app">
+  <section class="page" id="page-heute" aria-label="Heute"></section>
+  <section class="page" id="page-plan" aria-label="Plan" hidden></section>
+  <section class="page" id="page-karten" aria-label="Karten" hidden></section>
+  <section class="page" id="page-uni" aria-label="Uni und Claude" hidden></section>
+  <div class="loading" id="loading">Lade Lernraum …</div>
+</main>
+
+<nav class="tabbar" aria-label="Navigation">
+  <button type="button" data-page="heute" aria-current="page">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2.2M12 19.3v2.2M2.5 12h2.2M19.3 12h2.2M5.3 5.3l1.6 1.6M17.1 17.1l1.6 1.6M5.3 18.7l1.6-1.6M17.1 6.9l1.6-1.6"/></svg>
+    <span>Heute</span>
+  </button>
+  <button type="button" data-page="plan">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2.5"/><path d="M3.5 10h17M8 3v4M16 3v4"/></svg>
+    <span>Plan</span>
+  </button>
+  <button type="button" data-page="karten">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="6.5" y="3.5" width="13" height="15" rx="2.2"/><path d="M4.5 7v11.5a2 2 0 0 0 2 2H15"/></svg>
+    <span>Karten</span>
+  </button>
+  <button type="button" data-page="uni">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2.5 9 12 4.5 21.5 9 12 13.5z"/><path d="M6.5 11v4.5c1.5 1.6 3.4 2.4 5.5 2.4s4-.8 5.5-2.4V11M21.5 9v5"/></svg>
+    <span>Uni &amp; Claude</span>
+  </button>
+</nav>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="app.js"></script>
+</body>
+</html>

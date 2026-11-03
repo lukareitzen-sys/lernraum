@@ -1,0 +1,96 @@
+{
+ "unit": "BEPSYC-U3",
+ "quelle": "Studienheft 1253, Kap. 1.4 und Kap. 5 (Anfang)",
+ "questions": [
+  {
+   "type": "single",
+   "q": "Wer gründete 1879 das erste psychologische Labor, und wo?",
+   "options": ["Wilhelm Wundt in Leipzig", "Gustav Fechner in Berlin", "Oswald Külpe in Würzburg", "Iwan Pawlow in St. Petersburg"],
+   "answer": 0,
+   "explain": "Wundt gilt als Begründer der experimentellen Psychologie („Leipziger Schule“)."
+  },
+  {
+   "type": "multi",
+   "q": "Welche Ansprüche hatte Wundt an das Experiment? (mehrere richtig)",
+   "options": [
+    "Kontrollierbarkeit",
+    "Wiederholbarkeit",
+    "Kontrolle von Störvariablen",
+    "Erkenntnis durch künstlerische Introspektion",
+    "Möglichst wenig protokollieren"
+   ],
+   "answer": [0, 1, 2],
+   "explain": "Dazu kommen das systematische Verändern der Bedingungen und genaue Beobachtung und Protokollierung. Ergebnisse sollten reproduzierbar sein, wie in der Physik."
+  },
+  {
+   "type": "single",
+   "q": "Was beschreibt das Weber-Fechner-Gesetz?",
+   "options": [
+    "Einen logarithmischen Zusammenhang zwischen Reizstärke und empfundener Stärke",
+    "Einen linearen Zusammenhang zwischen Lernzeit und Gedächtnis",
+    "Wie Belohnung Verhalten verstärkt",
+    "Wie Gestalten im Gehirn entstehen"
+   ],
+   "answer": 0,
+   "explain": "E = k · log R + C. Doppelte Helligkeit wird z. B. nicht doppelt so hell empfunden. Fechner beschrieb es 1860 in „Elemente der Psychophysik“."
+  },
+  {
+   "type": "match",
+   "q": "Ordne die Gestaltgesetze zu",
+   "pairs": [
+    ["Gesetz der Nähe", "Elemente mit geringem Abstand wirken zusammengehörig"],
+    ["Gesetz der Ähnlichkeit", "Einander ähnliche Elemente wirken zusammengehörig"],
+    ["Gesetz der Geschlossenheit", "Geschlossene Strukturen werden bevorzugt wahrgenommen"],
+    ["Gesetz des gemeinsamen Schicksals", "Elemente, die sich gleichzeitig in eine Richtung bewegen, wirken als Einheit"]
+   ],
+   "explain": "Weitere Gestaltgesetze: gute Gestalt (Prägnanz) und gute Fortsetzung."
+  },
+  {
+   "type": "tf",
+   "q": "Laut Gestaltpsychologie ist Wahrnehmung ein passiver Vorgang, der die Umwelt eins zu eins abbildet.",
+   "answer": false,
+   "explain": "Falsch. Wahrnehmung ist aktiv und konstruktiv: Das Gehirn sucht nach Gestalten und ergänzt z. B. fehlende Kanten (Gesetz der Geschlossenheit)."
+  },
+  {
+   "type": "single",
+   "q": "Wann fand die „kognitive Wende“ statt?",
+   "options": ["In den 1960er Jahren", "Um 1879", "In den 1920er Jahren", "In den 1990er Jahren"],
+   "answer": 0,
+   "explain": "Bis dahin galt der Organismus als „black box“. Ab den 1960er/70er Jahren wurden wieder kognitions- und motivationspsychologische Konzepte entwickelt."
+  },
+  {
+   "type": "gap",
+   "q": "Seit der kognitiven Wende versucht die ___ mit Computermodellen die menschliche ___ abzubilden.",
+   "gaps": [
+    {"options": ["Kognitionspsychologie", "Psychotechnik", "Verhaltenstherapie"], "answer": 0},
+    {"options": ["Informationsverarbeitung", "Konditionierung", "Persönlichkeit"], "answer": 0}
+   ],
+   "explain": "Daraus ergeben sich viele Verbindungen zur Forschung an künstlicher Intelligenz."
+  },
+  {
+   "type": "single",
+   "q": "Was ist ACT-R?",
+   "options": [
+    "Ein kognitives Strukturmodell, mit dem man mentale Operationen (z. B. Rechenaufgaben) am Computer simuliert",
+    "Ein Persönlichkeitstest mit 16 Faktoren",
+    "Ein Verfahren der Magnetresonanztomografie",
+    "Ein Verstärkerplan aus dem Behaviorismus"
+   ],
+   "answer": 0,
+   "explain": "Das Heft zeigt ACT-R als Beispiel für Computermodelle der Kognitionspsychologie."
+  },
+  {
+   "type": "tf",
+   "q": "Mit fMRT sieht man über den Sauerstoffverbrauch (BOLD), welche Hirnareale aktiv sind. Wie daraus Bewusstsein entsteht, ist aber noch weitgehend unbekannt.",
+   "answer": true,
+   "explain": "Richtig. Die Methoden geben Hinweise auf Aktivierung, das genaue Zusammenspiel bleibt offen."
+  },
+  {
+   "type": "single",
+   "q": "Wer gehörte zur „Würzburger Schule“?",
+   "options": ["Oswald Külpe", "Max Wertheimer", "Iwan Pawlow", "Carl Rogers"],
+   "answer": 0,
+   "explain": "Külpe = Würzburger Schule. Wertheimer, Koffka und Köhler sind Vertreter der Gestaltpsychologie (Frankfurter/Berliner Schule)."
+  }
+ ]
+}

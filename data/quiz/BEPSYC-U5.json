@@ -1,0 +1,100 @@
+{
+ "unit": "BEPSYC-U5",
+ "quelle": "Studienheft 1253, Kap. 4",
+ "questions": [
+  {
+   "type": "single",
+   "q": "Was regelt das Psychotherapeutengesetz (PsychThG) seit 1998?",
+   "options": [
+    "Psychotherapeutische Tätigkeit ist an eine Approbation mit staatlicher Prüfung gebunden",
+    "Jeder Psychologe darf Therapie mit Krankenkassen abrechnen",
+    "Coaching braucht eine Approbation",
+    "Es regelt die Bachelorprüfungen in Psychologie"
+   ],
+   "answer": 0,
+   "explain": "Andere psychologische Tätigkeiten sind dagegen kaum staatlich reguliert."
+  },
+  {
+   "type": "tf",
+   "q": "Seit 1995 ist die hauptberufliche Tätigkeit als Psychologe als „freier Beruf“ anerkannt.",
+   "answer": true,
+   "explain": "Richtig. Sie ist selbstständig, unterliegt keinen fachlichen Weisungen und orientiert sich an berufsethischen Standards."
+  },
+  {
+   "type": "multi",
+   "q": "Was kennzeichnet die Tätigkeit als Psychologe als freien Beruf? (mehrere richtig)",
+   "options": [
+    "Orientierung an wissenschaftlichen Methoden und am Stand der Forschung",
+    "Besondere Fachkenntnisse und Erfahrung",
+    "Ethische Berufsstandards (z. B. von BDP und DGPs)",
+    "Bindung an fachliche Weisungen eines Vorgesetzten"
+   ],
+   "answer": [0, 1, 2],
+   "explain": "Gerade die fehlende fachliche Weisungsbindung macht den freien Beruf aus."
+  },
+  {
+   "type": "single",
+   "q": "Wie verteilen sich laut Heft die Tätigkeitsfelder von Psychologen grob?",
+   "options": [
+    "Je etwa ein Drittel Wirtschaft, therapeutischer Bereich und sonstige Bereiche",
+    "Fast alle arbeiten in der Therapie",
+    "Fast alle arbeiten in der Forschung",
+    "Die Hälfte arbeitet in Schulen"
+   ],
+   "answer": 0,
+   "explain": "Sonstige Bereiche sind z. B. Forschung, Beratung und Spezialgebiete wie die Verkehrspsychologie."
+  },
+  {
+   "type": "single",
+   "q": "Womit beginnt der gutachterliche Prozess?",
+   "options": ["Mit der Auftragsklärung", "Mit dem Testen", "Mit dem Schreiben des Gutachtens", "Mit der Abrechnung"],
+   "answer": 0,
+   "explain": "Leitfragen: Wer beauftragt zu welchem Zweck? Was ist der Anlass? Welche Folgen hat das Gutachten? Wie kooperativ und freiwillig ist der Begutachtete?"
+  },
+  {
+   "type": "single",
+   "q": "Wie grenzt das Heft Coaching von Psychotherapie ab?",
+   "options": [
+    "Coaching ist eine Beratungsform für Klienten OHNE klinische Symptome; Psychotherapie behandelt psychisch Erkrankte",
+    "Coaching ist eine Form der Psychotherapie",
+    "Coaching wird von den Krankenkassen bezahlt",
+    "Es gibt keinen Unterschied"
+   ],
+   "answer": 0,
+   "explain": "Im Zweifel sollen Coaches klären, ob eine Psychotherapie angezeigt wäre, und den Klienten darüber aufklären."
+  },
+  {
+   "type": "gap",
+   "q": "Die Kinder- und Jugendhilfe ist im ___ geregelt. Beratungsinhalte unterliegen der Verschwiegenheitspflicht nach § 203 ___.",
+   "gaps": [
+    {"options": ["SGB VIII", "SGB V", "BGB", "PsychThG"], "answer": 0},
+    {"options": ["StGB", "GG", "SGB V", "BGB"], "answer": 0}
+   ],
+   "explain": "SGB VIII (Kinder- und Jugendhilfe), § 203 StGB (Verschwiegenheitspflicht)."
+  },
+  {
+   "type": "match",
+   "q": "Ordne die Tätigkeiten zu",
+   "pairs": [
+    ["Schulpsychologie", "Beratung bei Lernschwierigkeiten, Mobbing, Lese-Rechtschreib-Schwäche"],
+    ["Wirtschaftspsychologische Beratung", "„Change Agent“ bei Veränderungsprojekten in Unternehmen"],
+    ["Gutachter", "Ergebnisse so aufbereiten, dass auch Richter sie verstehen"],
+    ["Trainer in der Erwachsenenbildung", "Lernen durch Wiederholung und Übung; Beruf ist nicht reguliert"]
+   ],
+   "explain": "Alle Felder stehen in Kapitel 4.2 bis 4.5."
+  },
+  {
+   "type": "tf",
+   "q": "Für die Ausbildung zum psychologischen Psychotherapeuten reichte laut Heft (Stand 2016) ein Bachelor in Psychologie.",
+   "answer": false,
+   "explain": "Falsch. Vorausgesetzt war ein Master in Psychologie mit Schwerpunkt klinische Psychologie (Universität oder gleichgestellt)."
+  },
+  {
+   "type": "single",
+   "q": "Wie hoch ist die Arbeitslosenquote von Psychologen laut Heft ungefähr?",
+   "options": ["Etwa 2 Prozent", "Etwa 10 Prozent", "Etwa 20 Prozent", "Etwa 0,1 Prozent"],
+   "answer": 0,
+   "explain": "Berichtet werden 1,7 bzw. 2,2 Prozent, also unter dem Schnitt anderer akademischer Berufe."
+  }
+ ]
+}

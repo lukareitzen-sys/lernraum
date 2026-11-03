@@ -1,0 +1,41 @@
+{
+ "unit": "BWISAR-U2",
+ "cards": [
+  {
+   "f": "Die vier wesentlichen Quellenarten?",
+   "b": "Monografien, Sammelbandbeiträge, Zeitschriftenartikel, Internetquellen."
+  },
+  {
+   "f": "Was ist eine Filterblase, und wie vermeidest du sie?",
+   "b": "Personalisierte und lokalisierte Treffer werden einseitig. Abhilfe: Personalisierung/Lokalisierung aus, DuckDuckGo, Qwant oder Meta-Suchmaschinen (MetaGer, Startpage)."
+  },
+  {
+   "f": "Wissenschaftliche Suchorte für den Einstieg?",
+   "b": "Google Scholar, CiteSeerX, KVK (Karlsruher Virtueller Katalog), DNB, BASE, EZB, DBIS (Verzeichnis von Fachdatenbanken)."
+  },
+  {
+   "f": "Zwei Grundsätze der Suche?",
+   "b": "„Vom Allgemeinen zum Speziellen“ und „Vom Aktuellen zum Älteren“."
+  },
+  {
+   "f": "Pragmatische vs. systematische Recherche?",
+   "b": "Pragmatisch = Schneeballprinzip von einer zentralen Quelle (rückwärts über Literaturverzeichnisse, vorwärts über Zitations-Indizes). Systematisch = fester Weg: Fachlexika, Handwörterbücher, Bibliografien, aktuelle Entwicklungen."
+  },
+  {
+   "f": "AND, OR, NOT?",
+   "b": "AND: beide Begriffe, schränkt ein. OR: einer oder beide, erweitert (Synonyme). NOT: schließt den zweiten Begriff aus."
+  },
+  {
+   "f": "Was ist Trunkierung?",
+   "b": "Platzhalter für Wortteile: * = beliebig viele Zeichen (bundes*), ? = genau ein Zeichen (ma?er). Mehr Treffer, aber weniger präzise."
+  },
+  {
+   "f": "Die drei Lesearten?",
+   "b": "Überfliegend (Eignung grob prüfen), sichtend/scannen (gezielt nach Stichworten), gründlich (alle Details verstehen)."
+  },
+  {
+   "f": "Believing game und doubting game?",
+   "b": "Erst wohlwollend verstehen (believing), dann kritisch hinterfragen (doubting). Wissenschaftliches Lesen braucht beide, in dieser Reihenfolge."
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "unit": "BWISAR-U2",
+ "quelle": "Studienheft 1133, Kap. 2",
+ "questions": [
+  {
+   "type": "multi",
+   "q": "Welche vier wesentlichen Quellenarten unterscheidet das Heft? (mehrere richtig)",
+   "options": ["Monografien (selbstständige Bücher)", "Sammelbandbeiträge", "Zeitschriftenartikel", "Internetquellen", "Werbeflyer"],
+   "answer": [0, 1, 2, 3],
+   "explain": "In Bibliotheken und Literaturprogrammen heißt die Quellenart „Dokumenttyp“."
+  },
+  {
+   "type": "tf",
+   "q": "Bei einer Monografie gibt man im Literaturverzeichnis die zitierten Seiten an.",
+   "answer": false,
+   "explain": "Falsch. Die zitierten Seiten stehen nur im Beleg im Text. Bei Sammelbandbeiträgen und Zeitschriftenartikeln steht im Verzeichnis der Seitenbereich des ganzen Beitrags."
+  },
+  {
+   "type": "single",
+   "q": "Was ist das „Deep Web“?",
+   "options": [
+    "Vor allem Datenbanken und dynamische Seiten, die normale Suchmaschinen kaum erschließen",
+    "Dasselbe wie das Dark Web",
+    "Alle Seiten, die Google findet",
+    "Ein Katalog der Deutschen Nationalbibliothek"
+   ],
+   "answer": 0,
+   "explain": "Die Inhalte werden erst bei einer Anfrage erzeugt. Nicht mit dem Dark Web verwechseln."
+  },
+  {
+   "type": "single",
+   "q": "Wie kommst du aus der „Filterblase“ bei der Recherche?",
+   "options": [
+    "Personalisierung und Lokalisierung abschalten oder DuckDuckGo, Qwant bzw. eine Meta-Suchmaschine nutzen",
+    "Öfter dieselben Suchbegriffe bei Google eingeben",
+    "Nur die ersten drei Treffer lesen",
+    "Das GPS einschalten"
+   ],
+   "answer": 0,
+   "explain": "Personalisierung und Lokalisierung führen zu maßgeschneiderten, einseitigen Treffern."
+  },
+  {
+   "type": "match",
+   "q": "Ordne die booleschen Operatoren zu",
+   "pairs": [
+    ["AND", "Beide Begriffe müssen vorkommen: Schnittmenge, weniger Treffer"],
+    ["OR", "Einer oder beide Begriffe: mehr Treffer, gut für Synonyme"],
+    ["NOT", "Treffer mit dem zweiten Begriff werden ausgeschlossen"]
+   ],
+   "explain": "Beispiel aus dem Heft: Sport AND / OR / NOT Gesundheit."
+  },
+  {
+   "type": "gap",
+   "q": "Die Suche nach „bundes*“ ist eine ___ Trunkierung. Ein ___ ersetzt dabei genau ein einzelnes Zeichen.",
+   "gaps": [
+    {"options": ["rechtsseitige", "linksseitige", "mittlere"], "answer": 0},
+    {"options": ["Fragezeichen (?)", "Stern (*)", "Anführungszeichen"], "answer": 0}
+   ],
+   "explain": "Der Stern ersetzt beliebig viele Zeichen, das Fragezeichen genau eins (z. B. „ma?er“ für Mayer/Maier)."
+  },
+  {
+   "type": "single",
+   "q": "Wie heißt die pragmatische Vorgehensweise bei der Literaturrecherche noch?",
+   "options": ["Schneeball- oder Lawinenprinzip", "Berrypicking", "Phrasensuche", "Systematische Recherche"],
+   "answer": 0,
+   "explain": "Auch „Methode der konzentrischen Kreise“: Von einer zentralen Quelle aus wächst die Treffermenge."
+  },
+  {
+   "type": "tf",
+   "q": "Die rückwärtsgerichtete Schneeballsuche findet automatisch die neuesten Veröffentlichungen.",
+   "answer": false,
+   "explain": "Falsch. Sie findet nur Werke, die älter sind als die Ausgangsquelle. Neuere findet die vorwärtsgerichtete Suche (Zitations-Indizes)."
+  },
+  {
+   "type": "match",
+   "q": "Ordne die Lesearten zu",
+   "pairs": [
+    ["Überfliegendes Lesen", "Eignung grob prüfen: Inhaltsverzeichnis, Überschriften, Zusammenfassung"],
+    ["Sichtendes Lesen (Scannen)", "Gezielt nach Stichworten suchen, z. B. mit Strg+F"],
+    ["Gründliches Lesen", "Alle Details verstehen, langsam und oft wiederholt"]
+   ],
+   "explain": "Die drei wichtigsten Lesearten nach Lange (2013)."
+  },
+  {
+   "type": "single",
+   "q": "In welcher Reihenfolge sollst du „believing game“ und „doubting game“ einsetzen?",
+   "options": [
+    "Erst believing game (wohlwollend verstehen), dann doubting game (kritisch prüfen)",
+    "Erst doubting game, dann believing game",
+    "Nur das doubting game, das ist wissenschaftlicher",
+    "Nur das believing game"
+   ],
+   "answer": 0,
+   "explain": "Wissenschaftliches Lesen braucht beide Haltungen in genau dieser Reihenfolge (Peter Elbow)."
+  }
+ ]
+}

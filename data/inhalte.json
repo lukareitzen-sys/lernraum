@@ -1,0 +1,41 @@
+{
+ "hinweis": "Index der Inhalte. Neue Quiz/Karten/Medien hier eintragen.",
+ "media": {
+  "BEPSYC-U1": {
+   "video": "media/BEPSYC-U1.mp4",
+   "audio": "media/BEPSYC-U1.mp3"
+  },
+  "BEPSYC-U2": {
+   "video": "media/BEPSYC-U2.mp4",
+   "audio": "media/BEPSYC-U2.mp3"
+  },
+  "BEPSYC-U3": {
+   "video": "media/BEPSYC-U3.mp4",
+   "audio": "media/BEPSYC-U3.mp3"
+  },
+  "BWISAR-U1": {
+   "video": "media/BWISAR-U1.mp4",
+   "audio": "media/BWISAR-U1.mp3"
+  }
+ },
+ "quiz": [
+  "BEPSYC-U1",
+  "BEPSYC-U2",
+  "BEPSYC-U3",
+  "BEPSYC-U4",
+  "BEPSYC-U5",
+  "BWISAR-U1",
+  "BWISAR-U2",
+  "BWISAR-U3"
+ ],
+ "karten": [
+  "BEPSYC-U1",
+  "BEPSYC-U2",
+  "BEPSYC-U3",
+  "BEPSYC-U4",
+  "BEPSYC-U5",
+  "BWISAR-U1",
+  "BWISAR-U2",
+  "BWISAR-U3"
+ ]
+}

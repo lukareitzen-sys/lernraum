@@ -1,0 +1,37 @@
+{
+ "unit": "BEPSYC-U2",
+ "cards": [
+  {
+   "f": "Welche Beiträge kamen aus der „russischen Schule“?",
+   "b": "Pawlow (Lernpsychologie, Konditionierung), Wygotski (Sprachpsychologie, Handlungstheorie), Lurija (Neuropsychologie, funktionale Gehirnanatomie)."
+  },
+  {
+   "f": "Was ist der Behaviorismus, und was bedeutet „Black Box“?",
+   "b": "Systematische Erforschung von beobachtbarem Verhalten (Reiz S → Reaktion R), z. B. operante Konditionierung mit Verstärkerplänen (Skinner). Das Innere des Menschen galt bis zur kognitiven Wende (1960er) als nicht einsehbare „Black Box“."
+  },
+  {
+   "f": "Wie hängen humanistische Psychologie und Carl Rogers zusammen?",
+   "b": "Die humanistische Psychologie wurde u. a. von Emigranten wie Charlotte Bühler geprägt. Sie beeinflusste direkt die klientenzentrierte Gesprächspsychotherapie, die Carl Rogers weiterentwickelte."
+  },
+  {
+   "f": "Welche Rolle spielte die Psychotechnik im Ersten Weltkrieg?",
+   "b": "Sie prüfte, ob individuelle Merkmale (z. B. Intelligenz, Motorik) zu den Anforderungen passen. Mit Tests und Eignungsverfahren (Vorläufer des Assessment-Centers) wählte man z. B. Offiziere aus."
+  },
+  {
+   "f": "Was ist operante Konditionierung?",
+   "b": "Lernen durch Belohnung und Bestrafung (Skinner). Belohntes Verhalten tritt wahrscheinlicher wieder auf."
+  },
+  {
+   "f": "Was ist negative Verstärkung? Beispiel?",
+   "b": "Ein unangenehmer Reiz fällt weg, dadurch wird das Verhalten häufiger. Beispiel: Zahnarztbesuch beseitigt Zahnschmerzen. Keine Bestrafung!"
+  },
+  {
+   "f": "Was legt ein Verstärkerplan fest?",
+   "b": "Wie oft bzw. in welchen Abständen ein Verhalten gezeigt werden muss, bis eine Belohnung kommt (z. B. nach jedem, nach jedem fünften Mal, feste oder wechselnde Intervalle)."
+  },
+  {
+   "f": "Wofür stehen John Dewey und William James?",
+   "b": "Für den humanen Pragmatismus in den USA: Das Individuum ist Träger des schöpferischen Denkens und Handelns."
+  }
+ ]
+}

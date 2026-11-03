@@ -1,0 +1,104 @@
+{
+ "unit": "BEPSYC-U1",
+ "quelle": "Studienheft 1253, Kap. 1.1–1.4",
+ "questions": [
+  {
+   "type": "single",
+   "q": "Worum geht es beim „Leib-Seele-Problem“?",
+   "options": [
+    "Ob die Psyche etwas Körperlich-Materielles ist (Gehirn, Nervensystem) oder eine unsichtbare „Software“, die Denken, Fühlen und Handeln steuert",
+    "Ob Tiere eine Seele haben oder nicht",
+    "Wie viel Schlaf Körper und Seele zur Erholung brauchen",
+    "Ob man bewusstes und unbewusstes Denken trennen kann"
+   ],
+   "answer": 0,
+   "explain": "Schon Aristoteles fragt in „Peri Psychés“, was die Seele ist. Kern: Ist die Psyche naturwissenschaftlich messbare Materie oder etwas Nicht-Sichtbares?"
+  },
+  {
+   "type": "match",
+   "q": "Ordne zu: Wie gewinnt der Philosoph Erkenntnis?",
+   "pairs": [
+    ["Sokrates", "Im Dialog Widersprüche im Denken aufdecken"],
+    ["Platon", "Erkenntnis als „Idee“ (eidos), universelle Prinzipien hinter dem Materiellen"],
+    ["Aristoteles", "Psyche ist Naturwissenschaft und zugleich Frage nach dem „glücklichen Leben“"]
+   ],
+   "explain": "Sokrates = Dialog, Platon = Idee/eidos, Aristoteles = natur- und geisteswissenschaftlicher Zugang."
+  },
+  {
+   "type": "tf",
+   "q": "Im Mittelalter wurde das antike Wissen über die Seele vor allem an europäischen Universitäten weiterentwickelt.",
+   "answer": false,
+   "explain": "Falsch. In Europa war das Denken theologisch geprägt. Weiterentwickelt haben es vor allem arabische Gelehrte wie Alhazen (Optik) und Averroes (Aristoteles-Vermittler in Córdoba)."
+  },
+  {
+   "type": "single",
+   "q": "Was vertrat Thomas von Aquin zum Verhältnis von Leib und Seele?",
+   "options": [
+    "Leib und Seele sind eine Einheit (monistisch)",
+    "Leib und Seele sind zwei getrennte Substanzen (dualistisch)",
+    "Die Seele ist nur Gehirnaktivität",
+    "Die Seele entsteht erst mit der Geburt"
+   ],
+   "answer": 0,
+   "explain": "Thomas von Aquin betont die Einheit von Leib und Seele. Jeder Mensch erhält schon mit der Zeugung eine „forma substantialis“."
+  },
+  {
+   "type": "gap",
+   "q": "Descartes trennte die geistige Substanz ___ von der körperlichen Substanz ___.",
+   "gaps": [
+    {"options": ["res cogitans", "res extensa", "forma substantialis", "eidos"], "answer": 0},
+    {"options": ["res cogitans", "res extensa", "forma substantialis", "eidos"], "answer": 1}
+   ],
+   "explain": "Kartesianischer Dualismus: res cogitans (Geist, eher per Introspektion untersuchbar) und res extensa (Körper, naturwissenschaftlich untersuchbar)."
+  },
+  {
+   "type": "multi",
+   "q": "Welche Tugenden nennt Aristoteles in der Nikomachischen Ethik? (mehrere richtig)",
+   "options": ["Tapferkeit", "Besonnenheit", "Gerechtigkeit", "Gehorsam", "Fleiß"],
+   "answer": [0, 1, 2],
+   "explain": "Genannt werden u. a. Tapferkeit, Besonnenheit, Großzügigkeit, Aufrichtigkeit, Freundschaft und Gerechtigkeit. Gehorsam und Fleiß stehen nicht in der Liste."
+  },
+  {
+   "type": "single",
+   "q": "Was zeigte Benjamin Libet in Bezug auf die Willensdebatte, die mit Duns Scotus begann?",
+   "options": [
+    "Im motorischen Kortex ist schon Aktivität messbar, bevor wir uns bewusst entscheiden, einen Finger zu bewegen",
+    "Bewusste Entscheidungen gehen jeder Gehirnaktivität voraus",
+    "Der freie Wille sitzt im Kleinhirn",
+    "Tiere haben keinen Willen"
+   ],
+   "answer": 0,
+   "explain": "Duns Scotus brachte den menschlichen Willen in die Debatte. Libets Befund (Aktivität vor der bewussten Entscheidung) hat die Diskussion um den freien Willen neu belebt."
+  },
+  {
+   "type": "tf",
+   "q": "In der Romantik gewannen Künstler und Literaten psychologische Erkenntnisse vor allem durch Selbsterfahrung und Introspektion.",
+   "answer": true,
+   "explain": "Richtig. Der Zugang war eher künstlerisch als wissenschaftlich, z. B. bei Schubert, Kleist und E. T. A. Hoffmann."
+  },
+  {
+   "type": "single",
+   "q": "Kleist beschrieb das Reden als „lautes Denken“. Wo findet sich diese Idee heute wieder?",
+   "options": [
+    "In der Gesprächs- und Verhaltenstherapie (Gedanken verbalisieren, „Reframing“)",
+    "In der Psychotechnik",
+    "In der Psychophysik nach Fechner",
+    "Im Behaviorismus"
+   ],
+   "answer": 0,
+   "explain": "Kleist erkannte die Wechselwirkung von Denken und Sprache. In der Therapie setzt der Klient durch Verbalisieren seine Gedanken in einen neuen Kontext („Reframing“)."
+  },
+  {
+   "type": "single",
+   "q": "Welcher Gedanke von Aristoteles wird heute in der Positiven Psychologie wieder aufgegriffen?",
+   "options": [
+    "Das Streben nach Glück und dem „richtigen Maß“ als Basismotiv",
+    "Die Trennung von Körper und Geist",
+    "Die Messung von Reizschwellen",
+    "Die Konditionierung durch Belohnung"
+   ],
+   "answer": 0,
+   "explain": "Das „richtige Maß“ zwischen Extremen und das Streben nach Glück. Parallelen gibt es auch zu Selbstwirksamkeit, Flow und Maslows Bedürfnishierarchie."
+  }
+ ]
+}

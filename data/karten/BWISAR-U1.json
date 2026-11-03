@@ -1,0 +1,41 @@
+{
+ "unit": "BWISAR-U1",
+ "cards": [
+  {
+   "f": "Wann „weiß“ man etwas?",
+   "b": "Wenn die Information wahr und begründbar ist."
+  },
+  {
+   "f": "Alltagswissen vs. wissenschaftliches Wissen?",
+   "b": "Alltag: persönliche, zufällige Erfahrung, mündlich, kaum geprüft. Wissenschaft: systematisch und methodisch, Erkenntnisweg offengelegt, Intersubjektivität, Gütekriterien, meist schriftlich publiziert."
+  },
+  {
+   "f": "Grundlagenforschung vs. Anwendungsforschung?",
+   "b": "Grundlagenforschung ist erst einmal zweckfrei. Anwendungsforschung löst praxisnahe Probleme und schafft direkt verwertbares Wissen."
+  },
+  {
+   "f": "Was ist Praxiswissen?",
+   "b": "In der Praxis bewährte Routinen und Wissen über Abläufe. Entsteht oft durch Versuch und Irrtum, Schulungen, Austausch – nur teilweise wissenschaftlich."
+  },
+  {
+   "f": "Was heißt intersubjektive Überprüfbarkeit?",
+   "b": "Ergebnisse und Methoden werden so offengelegt, dass andere sie kritisch prüfen können."
+  },
+  {
+   "f": "Was ist der „Dreiklang“ wissenschaftlicher Forschung?",
+   "b": "Beschreiben (Was ist der Fall?), erklären (Wie entsteht es?), vorhersagen (Gilt es auch anderswo?). Ziel: verallgemeinerbare Aussagen."
+  },
+  {
+   "f": "UV und AV im methodologischen Grundschema?",
+   "b": "UV = unabhängige Variable, die Einflussgröße. AV = abhängige Variable, die gesteuert werden soll. Beispiel: Marketingbudget (UV) → Umsatz (AV)."
+  },
+  {
+   "f": "Die drei klassischen Gütekriterien?",
+   "b": "Objektivität (unabhängig vom Untersucher), Reliabilität (Zuverlässigkeit bei Wiederholung), Validität (misst, was es messen soll – das wichtigste)."
+  },
+  {
+   "f": "Korrelation vs. Kausalität – Storchenbeispiel?",
+   "b": "Storchenpaare und Geburtenrate korrelieren (r = 0,62), aber eine Drittvariable (Landesfläche) erklärt beides. Korrelation beweist keine Ursache."
+  }
+ ]
+}

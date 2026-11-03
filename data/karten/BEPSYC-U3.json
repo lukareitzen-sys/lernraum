@@ -1,0 +1,41 @@
+{
+ "unit": "BEPSYC-U3",
+ "cards": [
+  {
+   "f": "Was besagt das Weber-Fechner-Gesetz?",
+   "b": "Die empfundene Reizstärke wächst logarithmisch mit der physikalischen Reizgröße: E = k · log R + C. Eine doppelte Reizstärke wird also nicht als doppelt so stark empfunden. Fechner, „Elemente der Psychophysik“ (1860)."
+  },
+  {
+   "f": "Wer gilt als Begründer der modernen, experimentellen Psychologie, und was passierte 1879?",
+   "b": "Wilhelm Wundt. Er gründete 1879 an der Universität Leipzig das erste psychologische Labor („Leipziger Schule“)."
+  },
+  {
+   "f": "Welche Ansprüche hatte Wundt an das Experiment?",
+   "b": "Kontrollierbarkeit, Wiederholbarkeit, systematisches Verändern der Bedingungen, genaue Beobachtung und Protokollierung, Kontrolle von Störvariablen. Die Ergebnisse sollen nachvollziehbar und reproduzierbar sein."
+  },
+  {
+   "f": "Was ist die Kernaussage der Gestaltpsychologie, und wer sind ihre Vertreter?",
+   "b": "Wahrnehmung ist aktiv und konstruktiv, das Gehirn sucht nach „Gestalten“ (Gestaltgesetze, z. B. Gesetz der Geschlossenheit). Vertreter: Wertheimer, Koffka, Köhler (Frankfurter/Berliner Schule)."
+  },
+  {
+   "f": "Nenne die sechs Gestaltgesetze aus dem Heft.",
+   "b": "Nähe, Ähnlichkeit, Geschlossenheit, gute Gestalt (Prägnanz), gute Fortsetzung, gemeinsames Schicksal."
+  },
+  {
+   "f": "Was war die kognitive Wende?",
+   "b": "Ab den 1960er Jahren wurde der Organismus nicht mehr als „black box“ gesehen. Kognitive und motivationale Prozesse (Informationsverarbeitung) wurden wieder erforscht."
+  },
+  {
+   "f": "Was macht die Kognitionspsychologie mit Computermodellen?",
+   "b": "Sie bildet die menschliche Informationsverarbeitung nach und simuliert sie, z. B. mit dem Strukturmodell ACT-R (Rechenaufgaben). Viele Verbindungen zur KI-Forschung."
+  },
+  {
+   "f": "Welche „Schulen“ entstanden nach der Leipziger Schule in Deutschland?",
+   "b": "Die Würzburger Schule (Oswald Külpe) und die Gestaltpsychologie der Frankfurter und Berliner Schule (Wertheimer, Koffka, Köhler)."
+  },
+  {
+   "f": "Was misst die fMRT, und wo ist die Grenze?",
+   "b": "Über den Sauerstoffverbrauch in Hirnarealen (BOLD) die Aktivierung. Wie daraus Bewusstsein entsteht, ist noch weitgehend unbekannt."
+  }
+ ]
+}

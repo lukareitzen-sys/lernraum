@@ -1,0 +1,106 @@
+{
+ "unit": "BEPSYC-U2",
+ "quelle": "Studienheft 1253, Kap. 1.4 (+ Lösung 005)",
+ "questions": [
+  {
+   "type": "single",
+   "q": "Was untersuchte die „Psychotechnik“?",
+   "options": [
+    "Ob individuelle Merkmale (z. B. Intelligenz, motorische Gewandtheit) zu den Anforderungen einer Tätigkeit passen",
+    "Wie Musik Gefühle auslöst",
+    "Wie das Gehirn Sauerstoff verbraucht",
+    "Wie Kinder Sprache lernen"
+   ],
+   "answer": 0,
+   "explain": "Industrie und Militär wollten mehr Effizienz. Die Psychotechnik prüfte die Passung von Person und Anforderung, z. B. mit Tests und Eignungsverfahren."
+  },
+  {
+   "type": "tf",
+   "q": "Die Psychotechnik entwickelte sich seit dem Ende des Ersten Weltkriegs und nutzte Tests und Eignungsverfahren wie das Assessment-Center.",
+   "answer": true,
+   "explain": "Richtig. So sollten z. B. geeignete Kandidaten für Offiziersfunktionen gefunden werden."
+  },
+  {
+   "type": "match",
+   "q": "Ordne zu: Beiträge der „russischen Schule“",
+   "pairs": [
+    ["Iwan P. Pawlow", "Psychologie des Lernens"],
+    ["Lew S. Wygotski", "Sprachpsychologie und Handlungstheorie"],
+    ["Alexander R. Lurija", "Funktionale Gehirnanatomie und Neuropsychologie"]
+   ],
+   "explain": "Pawlow = Lernen, Wygotski = Sprache/Handlung, Lurija = Gehirn/Neuropsychologie."
+  },
+  {
+   "type": "single",
+   "q": "Was steht im Behaviorismus im Mittelpunkt?",
+   "options": [
+    "Systematische Erforschung von beobachtbarem Verhalten: Reiz (S) und Reaktion (R)",
+    "Innere Gedanken, erforscht durch lautes Denken",
+    "Die Deutung von Träumen",
+    "Die Messung von Persönlichkeitsfaktoren"
+   ],
+   "answer": 0,
+   "explain": "Der Behaviorismus untersucht Verhalten, z. B. in lernpsychologischen Experimenten mit Stimulus und Response nach genauen Verstärkerplänen."
+  },
+  {
+   "type": "gap",
+   "q": "Bis zur kognitiven Wende galt der Organismus im Behaviorismus als ___, in die man keinen Einblick nehmen kann.",
+   "gaps": [
+    {"options": ["„black box“", "„Gestalt“", "„res cogitans“", "„eidos“"], "answer": 0}
+   ],
+   "explain": "Was im Inneren passiert, wurde ausgeklammert. Erst ab den 1960er/70er Jahren kamen kognitive und motivationale Konzepte zurück."
+  },
+  {
+   "type": "multi",
+   "q": "Welche Aussagen zur operanten Konditionierung stimmen? (mehrere richtig)",
+   "options": [
+    "Wird ein Verhalten belohnt, tritt es wahrscheinlicher wieder auf",
+    "Negative Verstärkung heißt: Ein unangenehmer Reiz fällt weg (z. B. Zahnschmerz nach dem Zahnarztbesuch)",
+    "Skinner untersuchte sie meist mit Ratten oder Tauben",
+    "Negative Verstärkung ist dasselbe wie Bestrafung"
+   ],
+   "answer": [0, 1, 2],
+   "explain": "Negative Verstärkung wirkt verhaltensfördernd, weil etwas Unangenehmes entfernt wird. Sie ist keine Bestrafung."
+  },
+  {
+   "type": "single",
+   "q": "Was legt ein „Verstärkerplan“ fest?",
+   "options": [
+    "Wie oft bzw. in welchen Abständen ein Verhalten gezeigt werden muss, damit eine Belohnung kommt",
+    "Welche Strafe auf ein Verhalten folgt",
+    "In welcher Reihenfolge Versuchstiere getestet werden",
+    "Wie viele Reize gleichzeitig dargeboten werden"
+   ],
+   "answer": 0,
+   "explain": "Zum Beispiel nach jedem Verhalten, nach jedem fünften Verhalten oder in festen bzw. wechselnden Intervallen."
+  },
+  {
+   "type": "single",
+   "q": "Wie hängen humanistische Psychologie und Carl Rogers zusammen?",
+   "options": [
+    "Die humanistische Psychologie (u. a. Charlotte Bühler) beeinflusste die klientenzentrierte Gesprächspsychotherapie von Rogers",
+    "Rogers begründete den Behaviorismus",
+    "Rogers erfand die Psychotechnik",
+    "Rogers formulierte die Gestaltgesetze"
+   ],
+   "answer": 0,
+   "explain": "Die humanistische Psychologie wurde von Emigranten der NS-Zeit in den USA geprägt und wirkte direkt auf die klientenzentrierte Gesprächstherapie."
+  },
+  {
+   "type": "tf",
+   "q": "Der humane Pragmatismus von John Dewey und William James stellt das Individuum als Träger des schöpferischen Denkens und Handelns in den Mittelpunkt.",
+   "answer": true,
+   "explain": "Richtig. Das ist die US-amerikanische Denkepoche, die parallel zum Behaviorismus entstand."
+  },
+  {
+   "type": "match",
+   "q": "Ordne zu: Welche Art von Disziplin entstand im 20. Jahrhundert?",
+   "pairs": [
+    ["Spezialdisziplin", "Sozialpsychologie, Persönlichkeitspsychologie"],
+    ["Interdisziplinärer Ansatz", "Kognitionswissenschaften, medizinische Psychologie"],
+    ["Anwendungsdisziplin", "Psychotherapie, pädagogische Psychologie, Wirtschaftspsychologie"]
+   ],
+   "explain": "Mit Beginn des 20. Jahrhunderts vervielfachten sich Forschungs- und Anwendungsgebiete der Psychologie."
+  }
+ ]
+}

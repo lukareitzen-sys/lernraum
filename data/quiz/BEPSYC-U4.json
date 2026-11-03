@@ -1,0 +1,98 @@
+{
+ "unit": "BEPSYC-U4",
+ "quelle": "Studienheft 1253, Kap. 1.5, 1.6 und 5",
+ "questions": [
+  {
+   "type": "single",
+   "q": "Was kennzeichnet die Psychologie im 21. Jahrhundert laut Heft?",
+   "options": [
+    "Eine weit verzweigte, etablierte Wissenschaft; neurowissenschaftliche Verfahren machen Prozesse im Gehirn sichtbar",
+    "Eine junge Wissenschaft ohne eigene Methoden",
+    "Sie beschäftigt sich nur noch mit Psychotherapie",
+    "Sie arbeitet nur noch qualitativ"
+   ],
+   "answer": 0,
+   "explain": "Die Anwendungsbreite reicht von Arbeitsgestaltung über Eignungsdiagnostik bis Verkehrs-, Umwelt- und Sportpsychologie."
+  },
+  {
+   "type": "gap",
+   "q": "Kurt Lewin: „There is nothing so practical as a good ___.“",
+   "gaps": [
+    {"options": ["theory", "practice", "experiment", "test"], "answer": 0}
+   ],
+   "explain": "Gute Theorien sind praktisch nützlich. Verknüpfungen zwischen den Fächern zeigen sich im Laufe des Studiums."
+  },
+  {
+   "type": "tf",
+   "q": "Die Psychologie hat eine kurze Tradition, aber eine lange Geschichte.",
+   "answer": false,
+   "explain": "Umgekehrt: lange Tradition (seit der Antike), aber kurze Geschichte als eigenständige Wissenschaft (ab dem 19. Jahrhundert)."
+  },
+  {
+   "type": "multi",
+   "q": "Welche Trends nennt Kapitel 5? (mehrere richtig)",
+   "options": [
+    "Wachsende Bedeutung des Gesundheitssektors",
+    "Wachsende Bedeutung der interkulturellen Psychologie",
+    "Wachsende Bedeutung der Umweltpsychologie",
+    "Abschaffung qualitativer Methoden",
+    "Sinkender Bedarf an psychologischer Expertise"
+   ],
+   "answer": [0, 1, 2],
+   "explain": "Qualitative Methoden werden eher wichtiger (mixed methods). Der Bedarf an psychologischem Wissen wächst."
+  },
+  {
+   "type": "single",
+   "q": "Was bedeutet „mixed methods“?",
+   "options": [
+    "Je nach Fragestellung qualitative und quantitative Methoden kombinieren",
+    "Mehrere Experimente gleichzeitig durchführen",
+    "Psychologie mit Medizin mischen",
+    "Ergebnisse verschiedener Studien zufällig zusammenwerfen"
+   ],
+   "answer": 0,
+   "explain": "Die alte Kluft zwischen quantitativ-experimentell und qualitativ-inhaltsanalytisch arbeitenden Psychologen verliert vermutlich an Bedeutung."
+  },
+  {
+   "type": "single",
+   "q": "Was unterscheidet „Bindestrich“-Studiengänge (z. B. Wirtschaftspsychologie) von einem generalistischen Psychologie-Bachelor?",
+   "options": [
+    "Sie qualifizieren möglichst früh für ein bestimmtes Tätigkeitsfeld; der generalistische Bachelor legt breite Grundlagen",
+    "Sie sind immer Masterstudiengänge",
+    "Sie verzichten auf Methodenlehre",
+    "Es gibt keinen Unterschied"
+   ],
+   "answer": 0,
+   "explain": "Gemeinsamer Kern bleiben die Grundlagenfächer (allgemein, differentiell, biologisch, sozial)."
+  },
+  {
+   "type": "tf",
+   "q": "Laut Heft ist die Ausbildung zum Psychotherapeuten (PiA) wegen hoher Kosten für viele Absolventen mit Risiken verbunden.",
+   "answer": true,
+   "explain": "Richtig. Die postgradualen Kosten liegen je nach Richtung bei mehreren tausend bis zehntausenden Euro."
+  },
+  {
+   "type": "match",
+   "q": "Ordne die Begriffe zu",
+   "pairs": [
+    ["Behavioural Finance", "Psychologie der Marktteilnehmer an Kapitalmärkten und Börsen"],
+    ["Work ability", "Beschäftigungsfähigkeit erhalten (demografischer Wandel)"],
+    ["Implizites Lernen", "Unbewusstes Lernen durch Ausprobieren"],
+    ["BOLD", "Sauerstoffverbrauch in Hirnarealen als Hinweis auf Aktivierung"]
+   ],
+   "explain": "Alle vier Begriffe stehen in Kapitel 1.6 bzw. 5."
+  },
+  {
+   "type": "single",
+   "q": "Warum ist in den Neurowissenschaften interdisziplinäre Zusammenarbeit wichtig?",
+   "options": [
+    "Jede Disziplin (Psychologie, Biologie, Medizin, Informatik) liefert eigene Perspektiven und Methoden",
+    "Weil Psychologen keine Geräte bedienen dürfen",
+    "Weil es gesetzlich vorgeschrieben ist",
+    "Weil nur Mediziner Hypothesen aufstellen"
+   ],
+   "answer": 0,
+   "explain": "Zusammen ergibt sich ein besseres Verständnis psychischer Strukturen, Prozesse und Funktionen."
+  }
+ ]
+}

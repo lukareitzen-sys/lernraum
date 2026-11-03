@@ -1,0 +1,45 @@
+{
+ "unit": "BEPSYC-U1",
+ "cards": [
+  {
+   "f": "Was ist das Leib-Seele-Problem?",
+   "b": "Die Frage, ob die Psyche etwas Körperlich-Materielles ist (Gehirn, Nervensystem, naturwissenschaftlich messbar) oder eine nicht sichtbare „Software“, die Denken, Sprache, Emotion, Motivation und Handeln steuert. Schon bei Aristoteles („Peri Psychés“) angelegt."
+  },
+  {
+   "f": "Welches Werk von Aristoteles gilt als frühe Seelenkunde?",
+   "b": "„Peri Psychés“ (lat. „De anima“, dt. „Über die Seele“)."
+  },
+  {
+   "f": "Was ist ein zentrales Thema der Nikomachischen Ethik und wo taucht es heute wieder auf?",
+   "b": "Das „richtige Maß“ zwischen Extremen und das Streben nach Glück als Basismotiv. Heute in der Positiven Psychologie, außerdem Parallelen zu Selbstwirksamkeit (Bandura), Flow (Csikszentmihalyi) und Maslows Bedürfnishierarchie."
+  },
+  {
+   "f": "Sokrates, Platon, Aristoteles: Wie gewinnt jeder Erkenntnis?",
+   "b": "Sokrates: im Dialog Widersprüche im Denken aufdecken. Platon: Erkenntnis als „Idee“ (eidos), also universelle Prinzipien hinter dem Materiellen. Aristoteles: Psyche ist Naturwissenschaft und zugleich geisteswissenschaftliche Frage nach dem „glücklichen Leben“."
+  },
+  {
+   "f": "Wer hat im Mittelalter das antike Wissen weiterentwickelt?",
+   "b": "Vor allem arabische Gelehrte, z. B. Alhazen (Optik) und Averroes (Aristoteles-Vermittler in Córdoba). In Europa war das Denken theologisch geprägt."
+  },
+  {
+   "f": "Was vertrat Thomas von Aquin zum Verhältnis von Leib und Seele?",
+   "b": "Leib und Seele sind eine Einheit (monistisch, nicht dualistisch). Jeder Mensch erhält mit der Zeugung eine „forma substantialis“."
+  },
+  {
+   "f": "Welches Thema brachte Duns Scotus in die Debatte und wie hängt Libet damit zusammen?",
+   "b": "Den menschlichen Willen, der selbst für sein Handeln verantwortlich ist. Libet zeigte, dass im motorischen Kortex schon Aktivität messbar ist, bevor wir uns bewusst entscheiden. Das hat die Debatte um den freien Willen neu entfacht."
+  },
+  {
+   "f": "Was ist der kartesianische Dualismus?",
+   "b": "Descartes trennt Geist („res cogitans“) und Körper („res extensa“). Den Körper kann man naturwissenschaftlich und experimentell untersuchen, den Geist nur über Introspektion und Reflexion (z. B. „lautes Denken“)."
+  },
+  {
+   "f": "Wie hat die Romantik zur Psychologie beigetragen?",
+   "b": "Künstler und Literaten (z. B. Schubert, Kleist, E. T. A. Hoffmann) haben Seelenzustände, Emotionen und Innenleben durch Selbsterfahrung und Introspektion beschrieben. Das war prägend, aber eher künstlerisch als wissenschaftlich."
+  },
+  {
+   "f": "Was erkannte Heinrich von Kleist, und wo nutzt man das heute?",
+   "b": "Die Wechselwirkung von Denken und Sprache: Wer Gedanken ausspricht, kommt zu neuen Einsichten („lautes Denken“). Heute genutzt in der Gesprächs- und Verhaltenstherapie (Verbalisieren, Reframing)."
+  }
+ ]
+}
